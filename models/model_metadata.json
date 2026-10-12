@@ -1,0 +1,32 @@
+{
+  "model_name": "LogisticRegression with TF-IDF and ColumnTransformer",
+  "training_date": "2026-08-24",
+  "dataset_size": 680,
+  "accuracy": 1.0,
+  "features_used": [
+    "Profile_Text",
+    "Education",
+    "Age"
+  ],
+  "career_domains": [
+    "AI & Machine Learning",
+    "Business & Management",
+    "Civil Engineering",
+    "Cloud & DevOps",
+    "Cybersecurity",
+    "Data & Analytics",
+    "Electrical Engineering",
+    "Electronics Engineering",
+    "Finance & Accounting",
+    "Healthcare",
+    "Marketing",
+    "Mechanical Engineering",
+    "Medicine",
+    "Pharmacy",
+    "Scientific Research",
+    "Software Development",
+    "UI/UX & Design"
+  ],
+  "python_version": "3.13.6",
+  "scikit_learn_version": "1.9.0"
+}

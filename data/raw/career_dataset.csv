@@ -1,0 +1,681 @@
+CandidateID,Age,Education,Skills,Interests,Career_Domain,Recommended_Career,Recommendation_Score
+1,25,B.Tech Computer Science,javascript;c++;css;c programming;html;java,software development;web development;programming,Software Development,Full Stack Developer,0.83
+2,26,MCA,css;data structures;c programming;sql;java;python;html;git,programming;application development;software development;web development,Software Development,Frontend Developer,0.84
+3,28,B.Tech Information Technology,data structures;python;javascript;c programming;html;algorithms;css;c++;git;sql;java,web development;programming;application development,Software Development,Full Stack Developer,0.95
+4,25,B.Tech Information Technology,data structures;python;sql;css;javascript;git;c++;java;algorithms;c programming;html,web development;programming;application development;software development,Software Development,Backend Developer,0.85
+5,31,B.Tech Computer Science,python;java;sql;algorithms;javascript;c programming,web development;software development;application development;programming,Software Development,Full Stack Developer,0.91
+6,31,B.Tech Computer Science,html;data structures;git;java;css;python;algorithms;javascript;sql;c programming;c++,programming;application development;software development,Software Development,Software Developer,0.96
+7,25,B.Tech Information Technology,python;c programming;git;data structures;sql;html;css,software development;programming;web development,Software Development,Frontend Developer,0.88
+8,29,B.Tech Information Technology,sql;java;git;html;c++;c programming;css;python;javascript,software development;application development;programming;web development,Software Development,Full Stack Developer,0.84
+9,21,MCA,python;sql;css;algorithms;javascript;java;c programming;data structures;html,programming;web development;application development,Software Development,Software Developer,0.96
+10,20,B.Tech Information Technology,c programming;sql;c++;git;python;data structures;java,software development;web development;programming;application development,Software Development,Software Engineer,0.94
+11,28,MCA,css;algorithms;c programming;java;html;git;sql;c++,programming;web development,Software Development,Frontend Developer,0.9
+12,23,B.Tech Information Technology,java;c++;sql;c programming;data structures,application development,Software Development,Software Engineer,0.89
+13,28,B.Tech Information Technology,c++;javascript;html;data structures;python,application development;web development,Software Development,Frontend Developer,0.85
+14,20,B.Tech Computer Science,data structures;git;python;c programming;sql;algorithms;css;html,software development;application development;web development,Software Development,Software Developer,0.85
+15,23,MCA,javascript;sql;html;css;java;c++;python;data structures;c programming;git,software development;programming;web development;application development,Software Development,Software Developer,0.94
+16,35,MCA,javascript;css;sql;data structures;c programming;git,web development;application development;programming;software development,Software Development,Full Stack Developer,0.94
+17,35,B.Sc Computer Science,html;python;algorithms;css;sql;c programming;javascript;data structures,software development,Software Development,Full Stack Developer,0.94
+18,34,B.Tech Computer Science,python;algorithms;java;data structures;sql,application development;software development;web development;programming,Software Development,Frontend Developer,0.85
+19,30,B.Tech Computer Science,git;sql;c++;java;javascript;c programming;algorithms;data structures;html;css,web development,Software Development,Software Engineer,0.89
+20,22,B.Tech Information Technology,c++;java;python;c programming;html;algorithms,web development;software development;application development,Software Development,Backend Developer,0.89
+21,32,MCA,html;data structures;git;javascript;sql;python;algorithms;java;c programming,software development;application development;programming,Software Development,Software Engineer,0.89
+22,26,B.Sc Computer Science,css;sql;data structures;java;git;c++;python;javascript;html,software development,Software Development,Frontend Developer,0.96
+23,20,B.Tech Computer Science,python;c++;sql;java;git;algorithms;html;javascript;css;data structures;c programming,application development;programming;web development,Software Development,Full Stack Developer,0.97
+24,31,B.Tech Information Technology,html;python;git;sql;algorithms;java,application development,Software Development,Software Developer,0.83
+25,34,B.Tech Computer Science,algorithms;javascript;c programming;data structures;python,programming,Software Development,Frontend Developer,0.89
+26,26,MCA,javascript;algorithms;html;c++;java;git;css;python;c programming;data structures;sql,programming;application development,Software Development,Frontend Developer,0.93
+27,26,B.Tech Computer Science,algorithms;sql;data structures;html;python;css;c++,programming,Software Development,Full Stack Developer,0.84
+28,28,MCA,git;javascript;sql;java;python;data structures;css;algorithms,programming;application development;web development;software development,Software Development,Full Stack Developer,0.89
+29,24,B.Sc Computer Science,sql;c programming;git;css;html;java;c++;algorithms;data structures,application development,Software Development,Frontend Developer,0.82
+30,21,B.Sc Computer Science,c++;java;python;html;sql;javascript;data structures,application development;programming;web development;software development,Software Development,Software Developer,0.97
+31,19,B.Tech Information Technology,javascript;java;algorithms;sql;c++;html;data structures;python;css,application development;programming;web development,Software Development,Software Developer,0.86
+32,35,MCA,git;data structures;css;python;javascript,application development;web development,Software Development,Software Developer,0.96
+33,34,B.Tech Information Technology,data structures;css;algorithms;sql;python;javascript,programming;application development;software development,Software Development,Full Stack Developer,0.95
+34,29,B.Sc Computer Science,python;c programming;c++;css;html;sql,web development;application development,Software Development,Full Stack Developer,0.84
+35,33,B.Tech Information Technology,git;html;css;python;c++;java;data structures,application development,Software Development,Software Engineer,0.88
+36,25,MCA,c++;html;python;css;sql;algorithms;javascript;data structures,software development;programming;web development,Software Development,Frontend Developer,0.88
+37,33,B.Sc Computer Science,c++;algorithms;data structures;sql;css;java;html,programming;software development;application development,Software Development,Software Developer,0.96
+38,19,B.Sc Computer Science,java;data structures;algorithms;c programming;python;javascript;sql;html;c++;git,application development;software development;web development;programming,Software Development,Frontend Developer,0.84
+39,22,B.Tech Information Technology,c++;css;c programming;data structures;html,application development;programming,Software Development,Backend Developer,0.95
+40,32,MCA,sql;python;git;c programming;data structures;css;c++;html;algorithms,application development,Software Development,Software Engineer,0.95
+41,30,M.Sc Artificial Intelligence,data analysis;deep learning;tensorflow;machine learning;python;numpy;statistics;pandas;pytorch,machine learning,AI & Machine Learning,Data Scientist,0.9
+42,22,M.Sc Artificial Intelligence,python;machine learning;pandas;pytorch,data science;computer vision;generative ai;artificial intelligence;machine learning,AI & Machine Learning,Machine Learning Engineer,0.91
+43,32,M.Sc Artificial Intelligence,data analysis;statistics;numpy;machine learning;pandas;deep learning;tensorflow;pytorch,generative ai;machine learning;computer vision;artificial intelligence;data science,AI & Machine Learning,AI Engineer,0.9
+44,35,B.Tech Computer Science,deep learning;pandas;pytorch;python;numpy;tensorflow;statistics,data science;artificial intelligence;computer vision,AI & Machine Learning,Machine Learning Engineer,0.82
+45,27,M.Sc Artificial Intelligence,pytorch;data analysis;deep learning;pandas;machine learning,artificial intelligence;generative ai;machine learning;data science;computer vision,AI & Machine Learning,Machine Learning Engineer,0.95
+46,26,B.Sc Data Science,machine learning;deep learning;python;tensorflow;statistics;pytorch;pandas,artificial intelligence;machine learning;generative ai,AI & Machine Learning,AI Engineer,0.85
+47,35,B.Sc Data Science,pandas;deep learning;numpy;data analysis;tensorflow,generative ai;machine learning;data science,AI & Machine Learning,Machine Learning Engineer,0.98
+48,19,M.Sc Artificial Intelligence,pytorch;data analysis;tensorflow;machine learning;python;statistics,generative ai,AI & Machine Learning,Data Scientist,0.93
+49,23,B.Sc Data Science,machine learning;pytorch;python;deep learning,generative ai,AI & Machine Learning,AI Engineer,0.89
+50,23,B.Sc Data Science,tensorflow;pandas;statistics;deep learning;pytorch;python;machine learning,machine learning;data science;computer vision;generative ai;artificial intelligence,AI & Machine Learning,AI Engineer,0.96
+51,25,B.Tech Computer Science,pytorch;statistics;pandas;tensorflow,machine learning;computer vision;generative ai;data science,AI & Machine Learning,Data Scientist,0.85
+52,31,B.Tech Artificial Intelligence,machine learning;python;deep learning;pytorch,data science;artificial intelligence;machine learning,AI & Machine Learning,AI Engineer,0.91
+53,27,M.Sc Artificial Intelligence,numpy;machine learning;deep learning;statistics;python;pandas;tensorflow,machine learning;computer vision;artificial intelligence;generative ai;data science,AI & Machine Learning,Computer Vision Engineer,0.81
+54,35,B.Sc Data Science,machine learning;deep learning;pandas;pytorch;numpy;python;statistics,data science;generative ai,AI & Machine Learning,Computer Vision Engineer,0.93
+55,34,M.Sc Artificial Intelligence,pytorch;data analysis;statistics;deep learning;tensorflow;numpy;python;pandas;machine learning,artificial intelligence;data science;generative ai;computer vision,AI & Machine Learning,Computer Vision Engineer,0.98
+56,28,B.Sc Computer Science,machine learning;pandas;statistics;deep learning,machine learning;artificial intelligence,AI & Machine Learning,Deep Learning Engineer,0.97
+57,18,B.Tech Artificial Intelligence,tensorflow;pandas;machine learning;data analysis;numpy;statistics;pytorch;python;deep learning,computer vision;data science,AI & Machine Learning,Machine Learning Engineer,0.9
+58,19,B.Sc Data Science,data analysis;machine learning;statistics;python;pytorch;tensorflow;numpy;pandas,artificial intelligence;generative ai,AI & Machine Learning,Machine Learning Engineer,0.81
+59,29,B.Tech Artificial Intelligence,pandas;pytorch;data analysis;tensorflow,computer vision,AI & Machine Learning,Data Scientist,0.93
+60,27,B.Tech Artificial Intelligence,pytorch;numpy;machine learning;pandas;statistics;python;data analysis,machine learning,AI & Machine Learning,Deep Learning Engineer,0.84
+61,28,B.Sc Data Science,pandas;tensorflow;numpy;machine learning,machine learning;computer vision,AI & Machine Learning,Deep Learning Engineer,0.88
+62,18,M.Sc Artificial Intelligence,tensorflow;machine learning;pandas;pytorch,machine learning;computer vision,AI & Machine Learning,Computer Vision Engineer,0.85
+63,33,B.Tech Computer Science,tensorflow;numpy;python;statistics;data analysis,machine learning;computer vision;data science;artificial intelligence,AI & Machine Learning,Computer Vision Engineer,0.95
+64,19,B.Tech Artificial Intelligence,statistics;machine learning;tensorflow;pandas;pytorch;data analysis;deep learning,artificial intelligence;data science;computer vision;generative ai,AI & Machine Learning,Data Scientist,0.84
+65,28,B.Tech Artificial Intelligence,pandas;pytorch;data analysis;numpy;tensorflow;machine learning,artificial intelligence;data science;generative ai,AI & Machine Learning,Computer Vision Engineer,0.82
+66,21,B.Tech Computer Science,data analysis;numpy;statistics;machine learning;python;pytorch;deep learning,machine learning;generative ai;computer vision;artificial intelligence,AI & Machine Learning,Machine Learning Engineer,0.96
+67,22,B.Sc Computer Science,numpy;machine learning;tensorflow;python;data analysis;deep learning,data science;generative ai;machine learning;artificial intelligence;computer vision,AI & Machine Learning,Deep Learning Engineer,0.91
+68,23,B.Sc Data Science,data analysis;numpy;python;deep learning,generative ai;data science;artificial intelligence;computer vision;machine learning,AI & Machine Learning,Machine Learning Engineer,0.97
+69,21,B.Sc Data Science,tensorflow;pandas;pytorch;python;machine learning,machine learning;data science,AI & Machine Learning,Machine Learning Engineer,0.88
+70,35,B.Sc Data Science,machine learning;data analysis;statistics;python;numpy;tensorflow;pandas;pytorch,data science;artificial intelligence,AI & Machine Learning,Data Scientist,0.88
+71,24,B.Tech Artificial Intelligence,tensorflow;data analysis;pytorch;python;machine learning;statistics;deep learning;pandas;numpy,artificial intelligence;data science;machine learning;computer vision;generative ai,AI & Machine Learning,AI Engineer,0.88
+72,20,B.Tech Artificial Intelligence,statistics;tensorflow;pandas;numpy;data analysis;pytorch;machine learning,machine learning;artificial intelligence;data science;computer vision;generative ai,AI & Machine Learning,Machine Learning Engineer,0.95
+73,31,B.Tech Computer Science,numpy;statistics;python;tensorflow,generative ai;computer vision;data science;artificial intelligence;machine learning,AI & Machine Learning,Machine Learning Engineer,0.89
+74,32,B.Sc Data Science,deep learning;machine learning;pytorch;data analysis;tensorflow,generative ai;data science;computer vision;artificial intelligence,AI & Machine Learning,Deep Learning Engineer,0.84
+75,22,B.Sc Data Science,data analysis;deep learning;statistics;pandas;tensorflow;numpy;pytorch,data science;computer vision,AI & Machine Learning,AI Engineer,0.9
+76,35,B.Sc Computer Science,statistics;deep learning;data analysis;tensorflow;pandas,data science,AI & Machine Learning,Deep Learning Engineer,0.94
+77,32,M.Sc Artificial Intelligence,statistics;data analysis;machine learning;pandas;python;deep learning;tensorflow,machine learning;artificial intelligence;generative ai;data science;computer vision,AI & Machine Learning,Deep Learning Engineer,0.97
+78,19,M.Sc Artificial Intelligence,python;data analysis;statistics;tensorflow;deep learning;pytorch,artificial intelligence;computer vision;generative ai,AI & Machine Learning,Machine Learning Engineer,0.9
+79,28,B.Tech Computer Science,python;pytorch;pandas;machine learning,machine learning;generative ai;artificial intelligence;computer vision;data science,AI & Machine Learning,Deep Learning Engineer,0.85
+80,20,B.Sc Data Science,tensorflow;pytorch;deep learning;pandas;numpy;python;data analysis;machine learning;statistics,data science;artificial intelligence;computer vision;generative ai;machine learning,AI & Machine Learning,Deep Learning Engineer,0.84
+81,19,B.Tech Data Science,data visualization;power bi;sql;python,data analysis;business analytics,Data & Analytics,Data Analyst,0.86
+82,27,B.Com,power bi;sql;data visualization;excel;pandas;python,business analytics;data visualization;statistics,Data & Analytics,Data Analyst,0.83
+83,30,Economics,pandas;excel;sql;power bi;python,statistics;data analysis;data visualization;business analytics,Data & Analytics,Data Analyst,0.85
+84,30,B.Com,python;excel;sql;pandas;data visualization,statistics;data visualization,Data & Analytics,Business Analyst,0.94
+85,21,B.Sc Data Science,data visualization;excel;sql,data analysis;statistics;business analytics,Data & Analytics,Business Analyst,0.95
+86,22,BBA,excel;python;power bi;statistics;pandas,data visualization;data analysis,Data & Analytics,Business Analyst,0.94
+87,29,B.Sc Data Science,excel;data visualization;pandas;power bi;statistics,data visualization;data analysis;statistics;business analytics,Data & Analytics,Data Scientist,0.9
+88,25,B.Sc Mathematics,data visualization;pandas;python,statistics;business analytics;data visualization;data analysis,Data & Analytics,Data Analyst,0.82
+89,20,B.Tech Data Science,power bi;excel;data visualization,business analytics;statistics;data visualization,Data & Analytics,Data Scientist,0.98
+90,30,B.Tech Data Science,power bi;excel;data visualization;python;pandas;sql,data analysis;statistics;business analytics;data visualization,Data & Analytics,Business Analyst,0.86
+91,18,B.Sc Data Science,power bi;pandas;data visualization;excel;sql;python;statistics,statistics;business analytics;data analysis,Data & Analytics,Business Intelligence Analyst,0.93
+92,18,B.Com,data visualization;statistics;sql;power bi,statistics;data analysis;business analytics,Data & Analytics,Data Analyst,0.87
+93,18,B.Com,data visualization;statistics;excel,data analysis;data visualization,Data & Analytics,Business Analyst,0.81
+94,22,B.Sc Data Science,pandas;data visualization;python;statistics;excel;power bi;sql,business analytics;data visualization;data analysis,Data & Analytics,Business Intelligence Analyst,0.87
+95,34,B.Sc Mathematics,data visualization;python;power bi;sql,business analytics;data analysis,Data & Analytics,Business Intelligence Analyst,0.94
+96,18,B.Sc Data Science,statistics;power bi;excel,business analytics,Data & Analytics,Business Intelligence Analyst,0.82
+97,34,B.Com,statistics;sql;power bi,business analytics;statistics;data analysis,Data & Analytics,Data Analyst,0.83
+98,24,B.Tech Data Science,power bi;data visualization;sql;pandas,data visualization;data analysis;statistics,Data & Analytics,Business Intelligence Analyst,0.83
+99,25,B.Com,power bi;python;excel;pandas,business analytics,Data & Analytics,Data Analyst,0.85
+100,29,B.Sc Mathematics,statistics;excel;pandas;data visualization;python;sql,data analysis;data visualization;business analytics;statistics,Data & Analytics,Data Scientist,0.94
+101,19,B.Com,sql;pandas;statistics;power bi;excel,data visualization;data analysis;business analytics;statistics,Data & Analytics,Business Intelligence Analyst,0.92
+102,25,B.Com,excel;power bi;python;statistics,data visualization;business analytics;statistics;data analysis,Data & Analytics,Business Intelligence Analyst,0.83
+103,18,B.Sc Data Science,statistics;power bi;python;excel;data visualization,data visualization;business analytics,Data & Analytics,Business Analyst,0.95
+104,22,B.Tech Data Science,pandas;statistics;data visualization;python;power bi;excel;sql,business analytics;data visualization;data analysis;statistics,Data & Analytics,Business Intelligence Analyst,0.84
+105,30,BBA,power bi;data visualization;sql,data analysis;business analytics,Data & Analytics,Data Scientist,0.96
+106,19,Economics,pandas;data visualization;power bi;excel,statistics;data visualization;business analytics,Data & Analytics,Business Intelligence Analyst,0.96
+107,25,B.Sc Data Science,data visualization;sql;statistics;pandas;python;power bi;excel,data visualization;data analysis,Data & Analytics,Data Scientist,0.83
+108,31,B.Sc Mathematics,pandas;power bi;python;data visualization;sql;statistics,data visualization;statistics;business analytics,Data & Analytics,Business Analyst,0.83
+109,26,B.Tech Data Science,pandas;sql;python;data visualization;statistics;power bi,data analysis;statistics,Data & Analytics,Data Analyst,0.88
+110,18,B.Tech Data Science,pandas;statistics;excel;power bi;sql,data analysis;business analytics;statistics;data visualization,Data & Analytics,Data Analyst,0.86
+111,20,B.Sc Mathematics,data visualization;statistics;power bi;python;excel,business analytics;statistics;data analysis;data visualization,Data & Analytics,Business Analyst,0.95
+112,18,B.Sc Mathematics,sql;pandas;data visualization;excel;statistics;python,data visualization;statistics,Data & Analytics,Business Intelligence Analyst,0.97
+113,33,Economics,power bi;excel;sql;pandas;statistics,data analysis;data visualization;business analytics;statistics,Data & Analytics,Business Analyst,0.94
+114,34,Economics,excel;sql;statistics;power bi,data visualization,Data & Analytics,Business Intelligence Analyst,0.89
+115,30,BBA,pandas;sql;python;power bi;data visualization;statistics;excel,data visualization;statistics,Data & Analytics,Data Analyst,0.91
+116,22,B.Sc Mathematics,excel;statistics;python;power bi;sql,statistics;business analytics;data analysis;data visualization,Data & Analytics,Data Scientist,0.86
+117,19,B.Com,data visualization;statistics;pandas;power bi;python,business analytics,Data & Analytics,Business Intelligence Analyst,0.83
+118,23,B.Sc Mathematics,power bi;excel;sql;python;statistics,statistics;business analytics;data visualization,Data & Analytics,Data Scientist,0.93
+119,18,B.Sc Data Science,python;data visualization;pandas;excel;power bi;sql;statistics,statistics,Data & Analytics,Business Intelligence Analyst,0.92
+120,35,B.Tech Data Science,excel;statistics;python;data visualization;power bi;pandas;sql,statistics;data analysis;business analytics,Data & Analytics,Business Intelligence Analyst,0.9
+121,33,B.Tech ECE,docker;linux;python;azure;git;aws;kubernetes,cloud computing;devops;system administration,Cloud & DevOps,Site Reliability Engineer,0.89
+122,27,B.Tech Computer Science,docker;aws;kubernetes;git;python,devops;system administration;cloud computing,Cloud & DevOps,DevOps Engineer,0.86
+123,20,B.Tech ECE,aws;kubernetes;docker,cloud computing;devops;system administration,Cloud & DevOps,Cloud Engineer,0.82
+124,34,B.Tech ECE,linux;git;kubernetes;azure,cloud computing,Cloud & DevOps,DevOps Engineer,0.86
+125,32,B.Tech Computer Science,docker;linux;python;git;azure;aws,devops;system administration,Cloud & DevOps,DevOps Engineer,0.95
+126,22,B.Tech Computer Science,python;azure;linux,cloud computing;devops,Cloud & DevOps,DevOps Engineer,0.82
+127,23,B.Tech Computer Science,docker;kubernetes;git;aws,devops;cloud computing;system administration,Cloud & DevOps,DevOps Engineer,0.97
+128,22,B.Tech ECE,docker;python;kubernetes;linux,system administration,Cloud & DevOps,Cloud Engineer,0.83
+129,22,B.Tech ECE,docker;kubernetes;aws;linux;azure;python;git,devops;cloud computing,Cloud & DevOps,DevOps Engineer,0.86
+130,32,B.Tech Computer Science,docker;git;azure;python;linux;kubernetes,devops;system administration;cloud computing,Cloud & DevOps,Cloud Engineer,0.98
+131,26,B.Tech Computer Science,aws;python;docker;kubernetes,cloud computing,Cloud & DevOps,Site Reliability Engineer,0.94
+132,19,B.Tech Computer Science,aws;azure;docker,cloud computing;devops,Cloud & DevOps,DevOps Engineer,0.84
+133,26,B.Tech Information Technology,python;docker;kubernetes;aws;azure;linux,system administration;cloud computing,Cloud & DevOps,Site Reliability Engineer,0.87
+134,31,B.Tech ECE,kubernetes;azure;linux;git;aws;python;docker,cloud computing;system administration,Cloud & DevOps,Cloud Engineer,0.97
+135,28,B.Tech Computer Science,aws;azure;kubernetes;python,devops,Cloud & DevOps,DevOps Engineer,0.93
+136,34,B.Tech ECE,python;azure;aws,cloud computing;system administration;devops,Cloud & DevOps,Cloud Engineer,0.88
+137,31,B.Tech ECE,aws;python;docker;git,system administration,Cloud & DevOps,Cloud Engineer,0.84
+138,30,B.Tech ECE,git;python;docker;linux;kubernetes;aws;azure,system administration;devops,Cloud & DevOps,Site Reliability Engineer,0.85
+139,28,B.Tech Computer Science,linux;git;kubernetes;aws;python;azure;docker,cloud computing;devops,Cloud & DevOps,DevOps Engineer,0.86
+140,25,B.Tech ECE,azure;python;git;kubernetes;aws;linux;docker,devops,Cloud & DevOps,DevOps Engineer,0.87
+141,20,B.Tech Information Technology,docker;kubernetes;linux;python;aws;azure;git,cloud computing,Cloud & DevOps,DevOps Engineer,0.9
+142,20,B.Tech Computer Science,docker;python;aws,cloud computing;devops,Cloud & DevOps,Site Reliability Engineer,0.92
+143,22,B.Tech Computer Science,azure;linux;kubernetes;aws,system administration;devops,Cloud & DevOps,DevOps Engineer,0.81
+144,29,B.Tech Information Technology,aws;docker;python;azure;git;linux,devops;system administration;cloud computing,Cloud & DevOps,Cloud Engineer,0.97
+145,29,B.Tech ECE,docker;git;azure;kubernetes;aws;linux,cloud computing;system administration,Cloud & DevOps,DevOps Engineer,0.91
+146,24,B.Tech Information Technology,git;python;aws,cloud computing,Cloud & DevOps,Site Reliability Engineer,0.94
+147,20,B.Tech ECE,git;docker;python;kubernetes,cloud computing;system administration,Cloud & DevOps,Cloud Engineer,0.98
+148,25,B.Tech Information Technology,docker;linux;python,devops;system administration;cloud computing,Cloud & DevOps,Cloud Engineer,0.86
+149,20,B.Tech Computer Science,git;aws;azure;linux;python;kubernetes;docker,system administration;cloud computing,Cloud & DevOps,Cloud Engineer,0.88
+150,32,B.Tech ECE,docker;python;kubernetes;linux,system administration;cloud computing,Cloud & DevOps,Cloud Engineer,0.96
+151,24,B.Tech Computer Science,aws;linux;docker;kubernetes,system administration,Cloud & DevOps,Site Reliability Engineer,0.91
+152,25,B.Tech ECE,kubernetes;linux;aws;python;docker;git;azure,devops;cloud computing;system administration,Cloud & DevOps,Cloud Engineer,0.9
+153,22,B.Tech ECE,kubernetes;linux;azure;aws,system administration;cloud computing;devops,Cloud & DevOps,Cloud Engineer,0.82
+154,27,B.Tech ECE,linux;git;azure;kubernetes;docker,devops,Cloud & DevOps,Site Reliability Engineer,0.87
+155,29,B.Tech ECE,linux;azure;docker;kubernetes;git;aws;python,devops;system administration;cloud computing,Cloud & DevOps,Site Reliability Engineer,0.87
+156,31,B.Tech ECE,python;docker;aws;kubernetes;git;linux,devops;system administration,Cloud & DevOps,Site Reliability Engineer,0.96
+157,24,B.Tech ECE,azure;linux;kubernetes;git;python;docker,cloud computing;system administration,Cloud & DevOps,DevOps Engineer,0.84
+158,24,B.Tech Computer Science,git;docker;aws;python;kubernetes,cloud computing;system administration;devops,Cloud & DevOps,Cloud Engineer,0.85
+159,19,B.Tech Computer Science,kubernetes;azure;docker;aws;linux;git;python,system administration;devops;cloud computing,Cloud & DevOps,DevOps Engineer,0.91
+160,33,B.Tech Computer Science,docker;linux;aws;azure;python;git,devops;cloud computing,Cloud & DevOps,Cloud Engineer,0.92
+161,35,B.Sc Cybersecurity,cybersecurity;network security;ethical hacking;python;linux;networking,cybersecurity;ethical hacking;network security,Cybersecurity,Cybersecurity Analyst,0.83
+162,19,B.Tech Computer Science,ethical hacking;linux;cybersecurity;networking;python,ethical hacking,Cybersecurity,Security Engineer,0.84
+163,18,B.Tech Information Technology,ethical hacking;network security;cybersecurity;networking,ethical hacking;network security;cybersecurity,Cybersecurity,Cybersecurity Analyst,0.94
+164,28,B.Tech Computer Science,network security;networking;python;ethical hacking;linux,ethical hacking,Cybersecurity,Security Engineer,0.87
+165,33,B.Tech Information Technology,linux;cybersecurity;network security;networking;python,cybersecurity;network security;ethical hacking,Cybersecurity,Cybersecurity Analyst,0.81
+166,32,B.Sc Cybersecurity,python;ethical hacking;network security,cybersecurity;network security;ethical hacking,Cybersecurity,Cybersecurity Analyst,0.98
+167,32,B.Tech Information Technology,cybersecurity;networking;linux;network security,cybersecurity;ethical hacking;network security,Cybersecurity,Cybersecurity Analyst,0.86
+168,32,B.Tech Computer Science,networking;ethical hacking;python;cybersecurity;linux,cybersecurity;network security,Cybersecurity,Penetration Tester,0.8
+169,31,B.Sc Cybersecurity,python;linux;network security;ethical hacking,ethical hacking;network security;cybersecurity,Cybersecurity,Cybersecurity Analyst,0.93
+170,18,B.Tech Computer Science,linux;networking;python;ethical hacking,ethical hacking,Cybersecurity,Security Engineer,0.91
+171,23,B.Tech Computer Science,ethical hacking;network security;python;networking;linux,network security;ethical hacking,Cybersecurity,Cybersecurity Analyst,0.82
+172,20,B.Tech Information Technology,python;cybersecurity;ethical hacking;networking;network security,ethical hacking,Cybersecurity,Cybersecurity Analyst,0.98
+173,25,B.Tech Information Technology,python;ethical hacking;network security;networking;cybersecurity;linux,ethical hacking,Cybersecurity,Penetration Tester,0.81
+174,29,B.Tech Information Technology,network security;linux;cybersecurity;networking;python,ethical hacking;cybersecurity,Cybersecurity,Cybersecurity Analyst,0.87
+175,18,B.Sc Cybersecurity,ethical hacking;python;linux,ethical hacking;network security,Cybersecurity,Cybersecurity Analyst,0.97
+176,31,B.Sc Cybersecurity,cybersecurity;linux;network security;networking;ethical hacking;python,ethical hacking;cybersecurity;network security,Cybersecurity,Security Engineer,0.9
+177,27,B.Tech Information Technology,python;cybersecurity;network security;ethical hacking;linux,cybersecurity;ethical hacking,Cybersecurity,Penetration Tester,0.85
+178,35,B.Tech Computer Science,python;networking;cybersecurity,ethical hacking;network security,Cybersecurity,Penetration Tester,0.86
+179,34,B.Tech Computer Science,cybersecurity;ethical hacking;network security,cybersecurity;network security,Cybersecurity,Cybersecurity Analyst,0.8
+180,25,B.Tech Information Technology,python;linux;networking;ethical hacking;cybersecurity;network security,ethical hacking;cybersecurity,Cybersecurity,Security Engineer,0.97
+181,29,B.Sc Cybersecurity,linux;ethical hacking;python;networking,cybersecurity,Cybersecurity,Security Engineer,0.93
+182,35,B.Sc Cybersecurity,cybersecurity;networking;network security;linux;python,ethical hacking,Cybersecurity,Penetration Tester,0.85
+183,18,B.Tech Computer Science,linux;networking;python;cybersecurity,cybersecurity,Cybersecurity,Security Engineer,0.86
+184,22,B.Sc Cybersecurity,linux;python;network security;networking;ethical hacking;cybersecurity,network security;cybersecurity;ethical hacking,Cybersecurity,Cybersecurity Analyst,0.88
+185,33,B.Sc Cybersecurity,networking;python;network security,cybersecurity;network security,Cybersecurity,Penetration Tester,0.81
+186,18,B.Tech Information Technology,python;networking;ethical hacking,cybersecurity;network security,Cybersecurity,Penetration Tester,0.85
+187,24,B.Sc Cybersecurity,cybersecurity;linux;networking;ethical hacking;python;network security,network security;cybersecurity,Cybersecurity,Cybersecurity Analyst,0.95
+188,23,B.Tech Information Technology,ethical hacking;linux;networking;cybersecurity;network security,network security;ethical hacking;cybersecurity,Cybersecurity,Penetration Tester,0.85
+189,35,B.Tech Computer Science,linux;cybersecurity;ethical hacking;python;networking;network security,ethical hacking;cybersecurity,Cybersecurity,Cybersecurity Analyst,0.95
+190,35,B.Tech Computer Science,cybersecurity;ethical hacking;networking,network security;cybersecurity;ethical hacking,Cybersecurity,Penetration Tester,0.82
+191,23,B.Sc Cybersecurity,linux;networking;ethical hacking,ethical hacking,Cybersecurity,Cybersecurity Analyst,0.87
+192,27,B.Tech Information Technology,networking;cybersecurity;linux,network security,Cybersecurity,Penetration Tester,0.85
+193,20,B.Sc Cybersecurity,ethical hacking;network security;python;networking;linux;cybersecurity,ethical hacking;network security;cybersecurity,Cybersecurity,Cybersecurity Analyst,0.89
+194,26,B.Sc Cybersecurity,ethical hacking;network security;linux;cybersecurity,network security,Cybersecurity,Security Engineer,0.9
+195,21,B.Tech Computer Science,ethical hacking;python;networking,ethical hacking;cybersecurity;network security,Cybersecurity,Penetration Tester,0.96
+196,22,B.Tech Information Technology,network security;cybersecurity;python;ethical hacking;linux,cybersecurity;ethical hacking,Cybersecurity,Cybersecurity Analyst,0.96
+197,32,B.Sc Cybersecurity,linux;networking;cybersecurity;network security;ethical hacking;python,ethical hacking;network security,Cybersecurity,Cybersecurity Analyst,0.83
+198,18,B.Sc Cybersecurity,cybersecurity;linux;ethical hacking;networking,network security;ethical hacking,Cybersecurity,Penetration Tester,0.8
+199,26,B.Tech Information Technology,linux;network security;cybersecurity,network security,Cybersecurity,Security Engineer,0.88
+200,28,B.Sc Cybersecurity,linux;python;network security;cybersecurity;ethical hacking,network security,Cybersecurity,Cybersecurity Analyst,0.89
+201,26,B.Tech Mechanical Engineering,thermodynamics;mechanical design;solidworks;manufacturing,manufacturing,Mechanical Engineering,Automotive Engineer,0.96
+202,24,B.Tech Mechanical Engineering,thermodynamics;mechanical design;solidworks,robotics;mechanical design,Mechanical Engineering,Design Engineer,0.94
+203,31,B.Tech Mechanical Engineering,mechanical design;manufacturing;thermodynamics;autocad;solidworks,automobile;manufacturing;robotics,Mechanical Engineering,Manufacturing Engineer,0.91
+204,28,B.E Mechanical Engineering,solidworks;thermodynamics;manufacturing,manufacturing;automobile;mechanical design;robotics,Mechanical Engineering,Automotive Engineer,0.89
+205,34,B.Tech Mechanical Engineering,manufacturing;mechanical design;thermodynamics;autocad;solidworks,mechanical design;automobile;manufacturing;robotics,Mechanical Engineering,Design Engineer,0.87
+206,26,B.Tech Mechanical Engineering,manufacturing;mechanical design;solidworks;autocad;thermodynamics,robotics;mechanical design;manufacturing,Mechanical Engineering,Design Engineer,0.85
+207,26,B.E Mechanical Engineering,solidworks;manufacturing;mechanical design,robotics;manufacturing;automobile,Mechanical Engineering,Automotive Engineer,0.83
+208,25,B.Tech Mechanical Engineering,solidworks;manufacturing;autocad;thermodynamics;mechanical design,automobile;manufacturing,Mechanical Engineering,Mechanical Engineer,0.96
+209,34,B.Tech Mechanical Engineering,thermodynamics;autocad;mechanical design,robotics;automobile;mechanical design;manufacturing,Mechanical Engineering,Mechanical Engineer,0.85
+210,30,B.E Mechanical Engineering,manufacturing;autocad;solidworks,mechanical design,Mechanical Engineering,Mechanical Engineer,0.88
+211,20,B.E Mechanical Engineering,manufacturing;autocad;solidworks;thermodynamics;mechanical design,mechanical design;robotics,Mechanical Engineering,Manufacturing Engineer,0.82
+212,18,B.E Mechanical Engineering,solidworks;autocad;thermodynamics;mechanical design;manufacturing,robotics;automobile,Mechanical Engineering,Manufacturing Engineer,0.9
+213,26,B.E Mechanical Engineering,manufacturing;autocad;solidworks;mechanical design,manufacturing;robotics;mechanical design,Mechanical Engineering,Mechanical Engineer,0.93
+214,30,B.E Mechanical Engineering,mechanical design;autocad;thermodynamics;solidworks,mechanical design;manufacturing,Mechanical Engineering,Mechanical Engineer,0.9
+215,21,B.E Mechanical Engineering,autocad;thermodynamics;solidworks;mechanical design;manufacturing,mechanical design,Mechanical Engineering,Automotive Engineer,0.8
+216,22,B.E Mechanical Engineering,mechanical design;manufacturing;solidworks;thermodynamics;autocad,mechanical design;manufacturing,Mechanical Engineering,Automotive Engineer,0.87
+217,26,B.Tech Mechanical Engineering,autocad;thermodynamics;mechanical design;manufacturing,robotics;manufacturing;mechanical design;automobile,Mechanical Engineering,Manufacturing Engineer,0.96
+218,19,B.Tech Mechanical Engineering,mechanical design;thermodynamics,automobile,Mechanical Engineering,Manufacturing Engineer,0.91
+219,32,B.Tech Mechanical Engineering,autocad;mechanical design;thermodynamics,automobile;manufacturing,Mechanical Engineering,Mechanical Engineer,0.86
+220,22,B.E Mechanical Engineering,thermodynamics;manufacturing;mechanical design;autocad;solidworks,automobile,Mechanical Engineering,Manufacturing Engineer,0.88
+221,31,B.Tech Mechanical Engineering,manufacturing;thermodynamics;mechanical design;autocad,mechanical design;manufacturing;automobile,Mechanical Engineering,Manufacturing Engineer,0.94
+222,30,B.Tech Mechanical Engineering,autocad;solidworks,manufacturing;automobile,Mechanical Engineering,Design Engineer,0.96
+223,32,B.Tech Mechanical Engineering,thermodynamics;solidworks;mechanical design,mechanical design;manufacturing;robotics;automobile,Mechanical Engineering,Automotive Engineer,0.86
+224,33,B.E Mechanical Engineering,thermodynamics;mechanical design;autocad;solidworks,automobile,Mechanical Engineering,Mechanical Engineer,0.89
+225,23,B.E Mechanical Engineering,thermodynamics;solidworks;manufacturing;mechanical design,manufacturing,Mechanical Engineering,Manufacturing Engineer,0.81
+226,30,B.Tech Mechanical Engineering,solidworks;autocad;thermodynamics;manufacturing,manufacturing,Mechanical Engineering,Automotive Engineer,0.89
+227,30,B.E Mechanical Engineering,thermodynamics;mechanical design;solidworks,mechanical design;automobile;manufacturing;robotics,Mechanical Engineering,Mechanical Engineer,0.81
+228,34,B.Tech Mechanical Engineering,autocad;manufacturing,manufacturing;automobile;robotics,Mechanical Engineering,Automotive Engineer,0.86
+229,22,B.Tech Mechanical Engineering,mechanical design;thermodynamics,manufacturing;mechanical design;automobile;robotics,Mechanical Engineering,Automotive Engineer,0.93
+230,19,B.Tech Mechanical Engineering,thermodynamics;solidworks;manufacturing,robotics;manufacturing;automobile,Mechanical Engineering,Design Engineer,0.83
+231,22,B.Tech Mechanical Engineering,solidworks;autocad;mechanical design;thermodynamics,mechanical design;robotics;automobile;manufacturing,Mechanical Engineering,Automotive Engineer,0.96
+232,21,B.Tech Mechanical Engineering,manufacturing;solidworks,mechanical design;automobile;robotics,Mechanical Engineering,Automotive Engineer,0.92
+233,32,B.Tech Mechanical Engineering,mechanical design;thermodynamics,manufacturing,Mechanical Engineering,Design Engineer,0.95
+234,27,B.Tech Mechanical Engineering,thermodynamics;manufacturing;mechanical design;autocad;solidworks,robotics;mechanical design;automobile,Mechanical Engineering,Design Engineer,0.97
+235,32,B.Tech Mechanical Engineering,manufacturing;mechanical design;solidworks;autocad,robotics;manufacturing;automobile;mechanical design,Mechanical Engineering,Mechanical Engineer,0.89
+236,27,B.Tech Mechanical Engineering,autocad;solidworks;manufacturing,mechanical design;automobile,Mechanical Engineering,Mechanical Engineer,0.81
+237,34,B.E Mechanical Engineering,solidworks;manufacturing;autocad,automobile;manufacturing;robotics,Mechanical Engineering,Automotive Engineer,0.86
+238,30,B.Tech Mechanical Engineering,mechanical design;thermodynamics;autocad;solidworks;manufacturing,robotics,Mechanical Engineering,Automotive Engineer,0.83
+239,19,B.E Mechanical Engineering,manufacturing;autocad;solidworks,robotics,Mechanical Engineering,Automotive Engineer,0.86
+240,26,B.E Mechanical Engineering,solidworks;mechanical design;manufacturing,automobile;mechanical design;manufacturing;robotics,Mechanical Engineering,Automotive Engineer,0.86
+241,24,B.Tech Civil Engineering,construction management;autocad;structural analysis,infrastructure;construction;structural engineering,Civil Engineering,Civil Engineer,0.83
+242,24,B.Tech Civil Engineering,surveying;construction management;autocad;revit,structural engineering,Civil Engineering,Construction Manager,0.92
+243,25,B.Tech Civil Engineering,structural analysis;surveying;construction management;autocad;revit,structural engineering;infrastructure,Civil Engineering,Civil Engineer,0.92
+244,31,B.Tech Civil Engineering,structural analysis;revit;autocad;surveying;construction management,structural engineering;construction;infrastructure,Civil Engineering,Site Engineer,0.92
+245,32,B.Tech Civil Engineering,construction management;surveying,infrastructure;construction,Civil Engineering,Civil Engineer,0.89
+246,18,B.Tech Civil Engineering,surveying;structural analysis;autocad;construction management,structural engineering;infrastructure;construction,Civil Engineering,Site Engineer,0.94
+247,25,B.E Civil Engineering,surveying;autocad,structural engineering;infrastructure;construction,Civil Engineering,Structural Engineer,0.94
+248,22,B.Tech Civil Engineering,autocad;construction management;surveying,construction;structural engineering,Civil Engineering,Site Engineer,0.92
+249,22,B.Tech Civil Engineering,surveying;autocad;revit,structural engineering;construction,Civil Engineering,Structural Engineer,0.97
+250,31,B.Tech Civil Engineering,surveying;structural analysis;autocad;construction management;revit,construction,Civil Engineering,Structural Engineer,0.82
+251,22,B.E Civil Engineering,surveying;revit;autocad;structural analysis,structural engineering,Civil Engineering,Structural Engineer,0.97
+252,35,B.Tech Civil Engineering,construction management;autocad;surveying;revit,construction;infrastructure;structural engineering,Civil Engineering,Civil Engineer,0.92
+253,31,B.E Civil Engineering,structural analysis;construction management,infrastructure,Civil Engineering,Civil Engineer,0.96
+254,20,B.E Civil Engineering,construction management;revit,infrastructure;structural engineering,Civil Engineering,Civil Engineer,0.92
+255,21,B.E Civil Engineering,construction management;autocad;structural analysis;revit;surveying,infrastructure,Civil Engineering,Civil Engineer,0.88
+256,22,B.Tech Civil Engineering,structural analysis;revit;autocad,infrastructure,Civil Engineering,Structural Engineer,0.94
+257,28,B.Tech Civil Engineering,structural analysis;surveying;autocad,structural engineering,Civil Engineering,Construction Manager,0.88
+258,24,B.Tech Civil Engineering,construction management;revit,infrastructure;construction;structural engineering,Civil Engineering,Structural Engineer,0.9
+259,32,B.E Civil Engineering,autocad;construction management;surveying,infrastructure;structural engineering,Civil Engineering,Site Engineer,0.82
+260,30,B.Tech Civil Engineering,revit;autocad,structural engineering;construction,Civil Engineering,Construction Manager,0.88
+261,27,B.Tech Civil Engineering,construction management;revit;structural analysis;surveying,construction;infrastructure,Civil Engineering,Construction Manager,0.97
+262,33,B.E Civil Engineering,autocad;revit,construction;infrastructure;structural engineering,Civil Engineering,Site Engineer,0.82
+263,25,B.Tech Civil Engineering,construction management;autocad;structural analysis,construction;structural engineering;infrastructure,Civil Engineering,Civil Engineer,0.91
+264,28,B.Tech Civil Engineering,revit;structural analysis,infrastructure;structural engineering;construction,Civil Engineering,Construction Manager,0.93
+265,19,B.Tech Civil Engineering,revit;construction management;surveying,structural engineering;infrastructure;construction,Civil Engineering,Civil Engineer,0.86
+266,31,B.Tech Civil Engineering,construction management;surveying;revit,structural engineering;construction,Civil Engineering,Site Engineer,0.82
+267,20,B.Tech Civil Engineering,structural analysis;construction management;autocad;surveying,infrastructure;structural engineering,Civil Engineering,Structural Engineer,0.97
+268,27,B.Tech Civil Engineering,surveying;revit,construction;structural engineering;infrastructure,Civil Engineering,Structural Engineer,0.93
+269,19,B.Tech Civil Engineering,surveying;revit;autocad;structural analysis;construction management,construction,Civil Engineering,Site Engineer,0.82
+270,26,B.E Civil Engineering,autocad;construction management;revit;structural analysis;surveying,construction;structural engineering,Civil Engineering,Civil Engineer,0.98
+271,19,B.E Civil Engineering,structural analysis;revit;construction management;autocad;surveying,construction;structural engineering;infrastructure,Civil Engineering,Site Engineer,0.87
+272,24,B.Tech Civil Engineering,autocad;revit;construction management;surveying,infrastructure,Civil Engineering,Site Engineer,0.88
+273,19,B.Tech Civil Engineering,construction management;revit;structural analysis;autocad;surveying,structural engineering,Civil Engineering,Structural Engineer,0.84
+274,26,B.E Civil Engineering,revit;construction management,infrastructure;structural engineering,Civil Engineering,Civil Engineer,0.95
+275,35,B.E Civil Engineering,revit;autocad;structural analysis,construction,Civil Engineering,Construction Manager,0.9
+276,30,B.Tech Civil Engineering,revit;surveying;autocad;structural analysis,structural engineering,Civil Engineering,Construction Manager,0.93
+277,25,B.E Civil Engineering,autocad;structural analysis,infrastructure,Civil Engineering,Construction Manager,0.88
+278,26,B.Tech Civil Engineering,construction management;surveying;revit,construction;structural engineering,Civil Engineering,Construction Manager,0.91
+279,24,B.E Civil Engineering,autocad;surveying,construction;infrastructure,Civil Engineering,Structural Engineer,0.91
+280,27,B.E Civil Engineering,construction management;autocad,infrastructure,Civil Engineering,Construction Manager,0.9
+281,22,B.E Electronics and Communication Engineering,electronics;communication systems;microcontrollers;arduino;iot,robotics;iot;embedded systems;electronics,Electronics Engineering,Embedded Systems Engineer,0.97
+282,18,B.Tech ECE,embedded systems;arduino;communication systems,iot;robotics;embedded systems;electronics,Electronics Engineering,Electronics Engineer,0.93
+283,28,B.Tech ECE,arduino;communication systems;iot,electronics;robotics;iot,Electronics Engineering,Embedded Systems Engineer,0.91
+284,32,B.E Electronics and Communication Engineering,iot;embedded systems;communication systems;arduino,electronics;embedded systems,Electronics Engineering,Embedded Systems Engineer,0.85
+285,32,B.Tech ECE,electronics;iot;microcontrollers;arduino;communication systems,electronics;embedded systems;iot;robotics,Electronics Engineering,IoT Engineer,0.82
+286,34,B.E Electronics and Communication Engineering,microcontrollers;communication systems;electronics;arduino;embedded systems,robotics;electronics;iot;embedded systems,Electronics Engineering,Embedded Systems Engineer,0.84
+287,19,B.Tech ECE,microcontrollers;electronics;communication systems;embedded systems,embedded systems;iot;electronics,Electronics Engineering,Electronics Engineer,0.82
+288,34,B.E Electronics and Communication Engineering,iot;communication systems;embedded systems,electronics;embedded systems;iot;robotics,Electronics Engineering,Embedded Systems Engineer,0.88
+289,18,B.Tech ECE,embedded systems;electronics;arduino,robotics,Electronics Engineering,IoT Engineer,0.95
+290,18,B.Tech ECE,microcontrollers;embedded systems;electronics,electronics;iot,Electronics Engineering,Embedded Systems Engineer,0.86
+291,27,B.Tech ECE,arduino;communication systems;electronics,robotics;electronics;iot,Electronics Engineering,Electronics Engineer,0.91
+292,34,B.Tech ECE,iot;electronics;microcontrollers;embedded systems;communication systems;arduino,electronics;iot,Electronics Engineering,Electronics Engineer,0.91
+293,29,B.Tech ECE,electronics;iot;microcontrollers;arduino;communication systems,iot;electronics;embedded systems;robotics,Electronics Engineering,Embedded Systems Engineer,0.88
+294,22,B.Tech ECE,embedded systems;iot;microcontrollers;arduino,iot,Electronics Engineering,IoT Engineer,0.95
+295,35,B.E Electronics and Communication Engineering,arduino;microcontrollers;embedded systems,robotics;embedded systems;electronics,Electronics Engineering,Electronics Engineer,0.91
+296,27,B.E Electronics and Communication Engineering,embedded systems;iot;arduino;microcontrollers;electronics,robotics,Electronics Engineering,Electronics Engineer,0.91
+297,19,B.Tech ECE,iot;embedded systems;microcontrollers;communication systems;electronics,iot;electronics,Electronics Engineering,Electronics Engineer,0.95
+298,21,B.Tech ECE,embedded systems;arduino;communication systems,iot;electronics;robotics;embedded systems,Electronics Engineering,IoT Engineer,0.86
+299,29,B.Tech ECE,communication systems;arduino;microcontrollers,embedded systems;iot,Electronics Engineering,Embedded Systems Engineer,0.89
+300,34,B.E Electronics and Communication Engineering,embedded systems;iot;microcontrollers;communication systems,embedded systems;iot;robotics,Electronics Engineering,IoT Engineer,0.92
+301,33,B.Tech ECE,iot;microcontrollers;communication systems;arduino,robotics;iot;embedded systems,Electronics Engineering,Embedded Systems Engineer,0.96
+302,21,B.E Electronics and Communication Engineering,electronics;embedded systems;communication systems;arduino;iot;microcontrollers,embedded systems;robotics;electronics;iot,Electronics Engineering,Electronics Engineer,0.86
+303,35,B.Tech ECE,communication systems;embedded systems;electronics;arduino;iot;microcontrollers,robotics;iot;electronics;embedded systems,Electronics Engineering,Electronics Engineer,0.85
+304,24,B.E Electronics and Communication Engineering,embedded systems;arduino;microcontrollers;electronics;iot;communication systems,robotics;iot,Electronics Engineering,IoT Engineer,0.84
+305,33,B.E Electronics and Communication Engineering,communication systems;iot;arduino;electronics,embedded systems;electronics;robotics;iot,Electronics Engineering,Electronics Engineer,0.88
+306,28,B.Tech ECE,microcontrollers;arduino;communication systems,iot,Electronics Engineering,Embedded Systems Engineer,0.96
+307,32,B.E Electronics and Communication Engineering,embedded systems;iot;electronics;communication systems;arduino;microcontrollers,robotics;embedded systems,Electronics Engineering,IoT Engineer,0.94
+308,21,B.Tech ECE,embedded systems;communication systems;arduino;iot,robotics;electronics,Electronics Engineering,Embedded Systems Engineer,0.94
+309,32,B.E Electronics and Communication Engineering,arduino;communication systems;iot,embedded systems,Electronics Engineering,Electronics Engineer,0.81
+310,30,B.Tech ECE,communication systems;arduino;electronics;iot;embedded systems,electronics;robotics,Electronics Engineering,Embedded Systems Engineer,0.97
+311,27,B.E Electronics and Communication Engineering,microcontrollers;communication systems;embedded systems;iot;electronics;arduino,robotics;iot,Electronics Engineering,IoT Engineer,0.85
+312,26,B.E Electronics and Communication Engineering,microcontrollers;iot;electronics;arduino;embedded systems;communication systems,robotics,Electronics Engineering,Embedded Systems Engineer,0.94
+313,33,B.Tech ECE,arduino;iot;communication systems;microcontrollers;electronics,electronics;robotics,Electronics Engineering,Embedded Systems Engineer,0.83
+314,32,B.Tech ECE,arduino;communication systems;iot;microcontrollers;embedded systems;electronics,embedded systems;robotics;iot,Electronics Engineering,Embedded Systems Engineer,0.81
+315,27,B.Tech ECE,embedded systems;communication systems;microcontrollers,iot;embedded systems;robotics,Electronics Engineering,Embedded Systems Engineer,0.82
+316,18,B.Tech ECE,embedded systems;arduino;communication systems,robotics;electronics,Electronics Engineering,Electronics Engineer,0.88
+317,27,B.E Electronics and Communication Engineering,electronics;embedded systems;iot;microcontrollers,robotics,Electronics Engineering,Embedded Systems Engineer,0.89
+318,32,B.E Electronics and Communication Engineering,arduino;communication systems;embedded systems;iot;electronics;microcontrollers,iot;robotics,Electronics Engineering,Electronics Engineer,0.93
+319,30,B.E Electronics and Communication Engineering,communication systems;embedded systems;arduino;iot;microcontrollers;electronics,embedded systems,Electronics Engineering,Electronics Engineer,0.8
+320,28,B.Tech ECE,electronics;communication systems;arduino;embedded systems,electronics,Electronics Engineering,Embedded Systems Engineer,0.9
+321,26,B.E Electrical Engineering,embedded systems;matlab,power systems,Electrical Engineering,Power Systems Engineer,0.88
+322,33,B.Tech EEE,electrical circuits;matlab;embedded systems;control systems;power systems,automation,Electrical Engineering,Automation Engineer,0.96
+323,29,B.Tech EEE,matlab;control systems;power systems;electrical circuits;embedded systems,renewable energy;power systems;automation,Electrical Engineering,Electrical Engineer,0.97
+324,23,B.E Electrical Engineering,control systems;electrical circuits;embedded systems;matlab,automation,Electrical Engineering,Power Systems Engineer,0.87
+325,21,B.Tech EEE,electrical circuits;matlab;embedded systems;power systems;control systems,power systems,Electrical Engineering,Power Systems Engineer,0.97
+326,32,B.E Electrical Engineering,matlab;control systems;power systems;electrical circuits,renewable energy;power systems,Electrical Engineering,Electrical Engineer,0.91
+327,34,B.E Electrical Engineering,power systems;electrical circuits;control systems;embedded systems;matlab,automation;power systems;renewable energy,Electrical Engineering,Power Systems Engineer,0.81
+328,29,B.Tech EEE,matlab;control systems;electrical circuits,automation,Electrical Engineering,Automation Engineer,0.91
+329,27,B.E Electrical Engineering,embedded systems;power systems;matlab;electrical circuits,power systems;automation;renewable energy,Electrical Engineering,Power Systems Engineer,0.82
+330,19,B.Tech EEE,electrical circuits;power systems;embedded systems;matlab,automation;power systems;renewable energy,Electrical Engineering,Electrical Engineer,0.92
+331,29,B.E Electrical Engineering,embedded systems;electrical circuits;control systems;matlab;power systems,automation,Electrical Engineering,Electrical Engineer,0.9
+332,33,B.Tech EEE,embedded systems;matlab;electrical circuits;control systems,power systems;renewable energy,Electrical Engineering,Power Systems Engineer,0.86
+333,31,B.Tech EEE,matlab;electrical circuits;control systems;power systems,renewable energy,Electrical Engineering,Automation Engineer,0.96
+334,30,B.Tech EEE,power systems;control systems;matlab,automation,Electrical Engineering,Electrical Engineer,0.89
+335,33,B.E Electrical Engineering,matlab;power systems;embedded systems,renewable energy,Electrical Engineering,Automation Engineer,0.87
+336,26,B.E Electrical Engineering,control systems;matlab;electrical circuits;embedded systems;power systems,power systems;renewable energy,Electrical Engineering,Power Systems Engineer,0.81
+337,27,B.E Electrical Engineering,power systems;matlab;electrical circuits;control systems;embedded systems,automation,Electrical Engineering,Automation Engineer,0.93
+338,23,B.E Electrical Engineering,embedded systems;electrical circuits,power systems;renewable energy,Electrical Engineering,Power Systems Engineer,0.9
+339,21,B.Tech EEE,electrical circuits;control systems;power systems;matlab;embedded systems,renewable energy;power systems;automation,Electrical Engineering,Automation Engineer,0.91
+340,31,B.E Electrical Engineering,electrical circuits;matlab;embedded systems,renewable energy;automation;power systems,Electrical Engineering,Electrical Engineer,0.9
+341,26,B.E Electrical Engineering,control systems;embedded systems;power systems;matlab,automation;power systems;renewable energy,Electrical Engineering,Power Systems Engineer,0.98
+342,35,B.E Electrical Engineering,control systems;matlab;power systems;embedded systems,renewable energy;power systems;automation,Electrical Engineering,Electrical Engineer,0.97
+343,31,B.Tech EEE,control systems;matlab,automation,Electrical Engineering,Automation Engineer,0.8
+344,33,B.E Electrical Engineering,electrical circuits;control systems;power systems;embedded systems,automation;renewable energy,Electrical Engineering,Electrical Engineer,0.88
+345,25,B.E Electrical Engineering,control systems;embedded systems;electrical circuits,renewable energy,Electrical Engineering,Electrical Engineer,0.87
+346,23,B.E Electrical Engineering,embedded systems;electrical circuits;control systems,power systems;renewable energy;automation,Electrical Engineering,Electrical Engineer,0.87
+347,30,B.E Electrical Engineering,control systems;embedded systems;matlab,power systems;renewable energy;automation,Electrical Engineering,Power Systems Engineer,0.94
+348,25,B.Tech EEE,embedded systems;power systems,renewable energy;power systems,Electrical Engineering,Power Systems Engineer,0.98
+349,32,B.E Electrical Engineering,power systems;matlab;embedded systems;control systems;electrical circuits,automation;power systems;renewable energy,Electrical Engineering,Power Systems Engineer,0.87
+350,34,B.Tech EEE,electrical circuits;power systems;embedded systems;control systems,automation;power systems;renewable energy,Electrical Engineering,Power Systems Engineer,0.81
+351,32,B.E Electrical Engineering,embedded systems;electrical circuits;control systems;power systems;matlab,renewable energy,Electrical Engineering,Electrical Engineer,0.83
+352,29,B.Tech EEE,matlab;embedded systems;power systems;electrical circuits,renewable energy;power systems,Electrical Engineering,Electrical Engineer,0.91
+353,25,B.Tech EEE,electrical circuits;power systems;matlab;control systems;embedded systems,power systems,Electrical Engineering,Power Systems Engineer,0.88
+354,19,B.E Electrical Engineering,matlab;electrical circuits,power systems,Electrical Engineering,Power Systems Engineer,0.83
+355,18,B.E Electrical Engineering,power systems;matlab;control systems,power systems;renewable energy;automation,Electrical Engineering,Power Systems Engineer,0.98
+356,22,B.Tech EEE,power systems;embedded systems;electrical circuits;matlab,power systems;automation;renewable energy,Electrical Engineering,Power Systems Engineer,0.96
+357,24,B.E Electrical Engineering,control systems;matlab;power systems,power systems,Electrical Engineering,Power Systems Engineer,0.81
+358,19,B.E Electrical Engineering,power systems;matlab,renewable energy;automation,Electrical Engineering,Automation Engineer,0.84
+359,29,B.Tech EEE,power systems;matlab;embedded systems;control systems;electrical circuits,renewable energy;power systems,Electrical Engineering,Power Systems Engineer,0.96
+360,25,B.E Electrical Engineering,matlab;electrical circuits;control systems;embedded systems,renewable energy;automation;power systems,Electrical Engineering,Automation Engineer,0.97
+361,29,BBA Finance,excel;taxation,banking;investment,Finance & Accounting,Investment Analyst,0.92
+362,21,MBA Finance,accounting;financial reporting;excel;financial analysis,accounting,Finance & Accounting,Accountant,0.83
+363,20,BBA Finance,financial reporting;financial analysis;accounting,accounting;investment,Finance & Accounting,Financial Analyst,0.93
+364,33,BBA Finance,excel;accounting;taxation;financial analysis,finance;accounting;banking,Finance & Accounting,Investment Analyst,0.89
+365,22,B.Com,taxation;accounting,finance,Finance & Accounting,Investment Analyst,0.86
+366,19,MBA Finance,financial reporting;taxation,investment;banking;accounting,Finance & Accounting,Finance Manager,0.95
+367,21,MBA Finance,excel;taxation;financial reporting,investment;banking;accounting,Finance & Accounting,Finance Manager,0.92
+368,22,B.Com Accounting and Finance,financial analysis;excel;financial reporting;taxation,investment;accounting;banking,Finance & Accounting,Finance Manager,0.96
+369,21,BBA Finance,financial analysis;taxation;accounting;excel,finance;accounting;banking;investment,Finance & Accounting,Finance Manager,0.86
+370,33,BBA Finance,taxation;excel;financial reporting;financial analysis,accounting;finance,Finance & Accounting,Finance Manager,0.95
+371,34,MBA Finance,excel;financial analysis;accounting,investment,Finance & Accounting,Accountant,0.9
+372,22,B.Com Accounting and Finance,financial reporting;accounting,accounting;investment;banking;finance,Finance & Accounting,Investment Analyst,0.89
+373,32,B.Com,accounting;excel;financial reporting;financial analysis;taxation,finance;accounting;banking;investment,Finance & Accounting,Financial Analyst,0.93
+374,34,B.Com,financial analysis;accounting;taxation;financial reporting;excel,finance;investment;accounting;banking,Finance & Accounting,Accountant,0.81
+375,27,B.Com Accounting and Finance,excel;financial analysis,banking,Finance & Accounting,Accountant,0.89
+376,20,B.Com,taxation;financial reporting;financial analysis,finance,Finance & Accounting,Financial Analyst,0.82
+377,23,BBA Finance,financial analysis;financial reporting;excel;taxation;accounting,investment;banking;finance;accounting,Finance & Accounting,Accountant,0.97
+378,26,BBA Finance,accounting;financial analysis;financial reporting;excel;taxation,banking;finance,Finance & Accounting,Finance Manager,0.87
+379,32,B.Com,financial reporting;taxation,finance;accounting,Finance & Accounting,Investment Analyst,0.92
+380,26,B.Com,accounting;financial analysis;taxation;excel,accounting;investment;finance;banking,Finance & Accounting,Financial Analyst,0.93
+381,35,B.Com,accounting;financial reporting;excel,investment;finance;banking;accounting,Finance & Accounting,Accountant,0.84
+382,32,B.Com Accounting and Finance,financial analysis;accounting;excel,banking;investment;accounting;finance,Finance & Accounting,Finance Manager,0.85
+383,24,B.Com,taxation;financial analysis,investment,Finance & Accounting,Financial Analyst,0.83
+384,20,BBA Finance,accounting;financial reporting;taxation;excel;financial analysis,banking;investment,Finance & Accounting,Accountant,0.88
+385,21,B.Com Accounting and Finance,accounting;financial analysis;taxation;financial reporting;excel,accounting;banking;investment;finance,Finance & Accounting,Finance Manager,0.86
+386,24,BBA Finance,accounting;taxation;financial analysis,finance;banking;investment,Finance & Accounting,Finance Manager,0.93
+387,34,MBA Finance,financial reporting;taxation;accounting;financial analysis;excel,investment,Finance & Accounting,Finance Manager,0.92
+388,25,BBA Finance,taxation;accounting;excel,investment,Finance & Accounting,Financial Analyst,0.92
+389,31,BBA Finance,financial analysis;financial reporting;taxation;excel,accounting,Finance & Accounting,Investment Analyst,0.91
+390,31,MBA Finance,accounting;taxation;financial analysis;financial reporting,accounting;banking;investment,Finance & Accounting,Finance Manager,0.97
+391,33,MBA Finance,excel;financial reporting;taxation,finance,Finance & Accounting,Investment Analyst,0.89
+392,29,B.Com Accounting and Finance,financial analysis;excel;taxation;accounting,investment;banking,Finance & Accounting,Investment Analyst,0.95
+393,35,BBA Finance,accounting;financial reporting,banking;finance;accounting,Finance & Accounting,Accountant,0.92
+394,23,B.Com Accounting and Finance,excel;financial analysis;accounting;taxation;financial reporting,banking;investment;accounting,Finance & Accounting,Financial Analyst,0.9
+395,25,B.Com,financial reporting;accounting;taxation;excel;financial analysis,accounting;banking,Finance & Accounting,Financial Analyst,0.82
+396,19,MBA Finance,accounting;financial analysis,accounting;banking;investment;finance,Finance & Accounting,Financial Analyst,0.91
+397,31,MBA Finance,financial analysis;excel;financial reporting;taxation;accounting,accounting;investment,Finance & Accounting,Investment Analyst,0.92
+398,23,B.Com Accounting and Finance,accounting;excel,banking;finance;investment;accounting,Finance & Accounting,Investment Analyst,0.85
+399,18,B.Com Accounting and Finance,excel;accounting;taxation;financial analysis,finance;accounting;investment;banking,Finance & Accounting,Accountant,0.81
+400,22,BBA Finance,taxation;accounting;financial analysis,accounting;finance,Finance & Accounting,Accountant,0.97
+401,24,B.Tech,communication;project management;business analysis;excel;leadership,strategy;entrepreneurship;business;management,Business & Management,Management Consultant,0.91
+402,30,B.Tech,excel;leadership;business analysis;communication,business;strategy;entrepreneurship;management,Business & Management,Management Consultant,0.85
+403,18,MBA,leadership;project management;business analysis;excel;communication,management;entrepreneurship;business,Business & Management,Business Analyst,0.92
+404,28,B.Com,communication;excel;leadership,business;management;strategy,Business & Management,Management Consultant,0.89
+405,27,BBA,business analysis;communication;leadership,strategy,Business & Management,Operations Manager,0.93
+406,19,BBA,excel;business analysis;communication;leadership;project management,entrepreneurship;strategy;management,Business & Management,Management Consultant,0.92
+407,22,MBA,business analysis;leadership;excel;communication;project management,business;strategy,Business & Management,Project Manager,0.84
+408,27,BBA,excel;project management,entrepreneurship;management;business,Business & Management,Operations Manager,0.86
+409,30,B.Com,communication;excel,entrepreneurship,Business & Management,Business Analyst,0.81
+410,25,MBA,excel;project management;communication,management;entrepreneurship;business;strategy,Business & Management,Operations Manager,0.87
+411,18,B.Tech,project management;leadership,entrepreneurship;business;strategy;management,Business & Management,Management Consultant,0.9
+412,24,B.Com,communication;business analysis;excel;project management;leadership,entrepreneurship;strategy,Business & Management,Management Consultant,0.93
+413,24,B.Com,leadership;business analysis,strategy;business;management;entrepreneurship,Business & Management,Project Manager,0.89
+414,23,B.Com,project management;excel;leadership,strategy;management;business,Business & Management,Business Analyst,0.81
+415,28,B.Com,communication;leadership;business analysis,management;entrepreneurship;strategy,Business & Management,Business Analyst,0.92
+416,21,B.Com,communication;project management;excel;leadership;business analysis,management;business;entrepreneurship,Business & Management,Management Consultant,0.86
+417,24,BBA,business analysis;excel,strategy;entrepreneurship,Business & Management,Project Manager,0.93
+418,27,B.Com,leadership;project management;business analysis;excel,strategy;business;management,Business & Management,Business Analyst,0.83
+419,21,B.Tech,leadership;communication;excel,management;entrepreneurship;strategy,Business & Management,Management Consultant,0.82
+420,26,MBA,excel;project management;leadership;business analysis;communication,entrepreneurship,Business & Management,Management Consultant,0.97
+421,21,BBA,excel;project management;business analysis;communication;leadership,management;strategy;entrepreneurship;business,Business & Management,Operations Manager,0.93
+422,21,BBA,business analysis;leadership,entrepreneurship;business,Business & Management,Project Manager,0.9
+423,23,MBA,leadership;project management;communication,management,Business & Management,Project Manager,0.9
+424,19,B.Tech,communication;leadership;excel;business analysis,strategy;management,Business & Management,Operations Manager,0.96
+425,23,B.Com,project management;excel,management,Business & Management,Business Analyst,0.94
+426,24,BBA,business analysis;leadership,entrepreneurship;strategy,Business & Management,Operations Manager,0.82
+427,33,B.Tech,excel;business analysis;project management,business;entrepreneurship,Business & Management,Business Analyst,0.83
+428,23,BBA,business analysis;project management;leadership,management;strategy,Business & Management,Business Analyst,0.94
+429,35,BBA,communication;leadership;excel;project management;business analysis,business;management,Business & Management,Management Consultant,0.93
+430,32,BBA,leadership;business analysis,entrepreneurship;management;strategy,Business & Management,Management Consultant,0.96
+431,33,B.Com,business analysis;leadership;project management,business,Business & Management,Operations Manager,0.97
+432,34,BBA,excel;business analysis;leadership,strategy;business;entrepreneurship;management,Business & Management,Project Manager,0.89
+433,27,B.Com,excel;communication;project management;leadership;business analysis,management;entrepreneurship;business,Business & Management,Operations Manager,0.93
+434,22,B.Com,project management;leadership,entrepreneurship,Business & Management,Business Analyst,0.97
+435,19,MBA,business analysis;communication;project management,entrepreneurship;management;strategy,Business & Management,Business Analyst,0.87
+436,30,B.Com,communication;excel;business analysis;project management,strategy;entrepreneurship,Business & Management,Management Consultant,0.91
+437,21,B.Tech,project management;excel;leadership;business analysis;communication,management;business,Business & Management,Management Consultant,0.87
+438,35,BBA,communication;leadership;excel,business;management;entrepreneurship;strategy,Business & Management,Business Analyst,0.97
+439,25,BBA,project management;communication;business analysis;excel,strategy;management;entrepreneurship;business,Business & Management,Management Consultant,0.8
+440,27,B.Tech,business analysis;communication;excel;leadership,strategy;entrepreneurship,Business & Management,Business Analyst,0.82
+441,19,MBA Marketing,seo;communication,branding,Marketing,Brand Manager,0.91
+442,33,MBA Marketing,communication;social media;content marketing,advertising;marketing;branding,Marketing,Marketing Manager,0.83
+443,27,BBA,digital marketing;communication;social media,social media;advertising;marketing;branding,Marketing,Brand Manager,0.85
+444,26,BBA,content marketing;digital marketing,branding,Marketing,Marketing Manager,0.87
+445,21,BA Marketing,content marketing;seo;communication;digital marketing;social media,social media;branding,Marketing,SEO Specialist,0.88
+446,27,BBA,digital marketing;communication,marketing;social media,Marketing,Marketing Manager,0.94
+447,20,BA Marketing,seo;communication;content marketing;digital marketing,social media;branding;marketing;advertising,Marketing,Marketing Manager,0.93
+448,30,MBA Marketing,communication;digital marketing;content marketing;seo;social media,marketing;advertising;social media;branding,Marketing,Brand Manager,0.91
+449,22,B.Com,communication;content marketing,branding;marketing;advertising;social media,Marketing,Digital Marketing Specialist,0.91
+450,29,BA Marketing,digital marketing;communication;seo;content marketing;social media,social media,Marketing,Marketing Manager,0.85
+451,21,MBA Marketing,seo;social media;content marketing;digital marketing,branding,Marketing,Marketing Manager,0.8
+452,30,BBA,seo;social media;digital marketing,marketing;advertising;branding,Marketing,Marketing Manager,0.98
+453,33,BA Marketing,content marketing;communication;seo;digital marketing,social media;branding;marketing;advertising,Marketing,SEO Specialist,0.85
+454,22,B.Com,digital marketing;social media;content marketing,advertising,Marketing,SEO Specialist,0.8
+455,23,BBA,seo;social media;communication;digital marketing;content marketing,social media;marketing;branding,Marketing,Digital Marketing Specialist,0.85
+456,20,BA Marketing,seo;content marketing;social media,branding,Marketing,Digital Marketing Specialist,0.8
+457,27,BBA,communication;seo;content marketing;digital marketing,branding;marketing;social media;advertising,Marketing,Marketing Manager,0.96
+458,30,B.Com,seo;social media;communication;digital marketing;content marketing,advertising,Marketing,Digital Marketing Specialist,0.91
+459,22,BBA,digital marketing;communication;seo;social media;content marketing,advertising,Marketing,Marketing Manager,0.94
+460,25,B.Com,communication;social media;seo;content marketing,social media;advertising;marketing;branding,Marketing,Digital Marketing Specialist,0.91
+461,30,MBA Marketing,social media;digital marketing;content marketing;communication,branding,Marketing,Marketing Manager,0.87
+462,35,BA Marketing,digital marketing;social media,social media;branding;advertising;marketing,Marketing,Marketing Manager,0.81
+463,33,BBA,seo;digital marketing;communication,marketing,Marketing,Marketing Manager,0.81
+464,19,MBA Marketing,communication;social media;digital marketing,marketing;branding;social media,Marketing,SEO Specialist,0.94
+465,30,MBA Marketing,social media;seo,branding;advertising,Marketing,Digital Marketing Specialist,0.88
+466,35,BBA,communication;digital marketing;seo;content marketing;social media,advertising;marketing;social media;branding,Marketing,SEO Specialist,0.87
+467,20,MBA Marketing,digital marketing;seo;content marketing;social media,advertising,Marketing,Marketing Manager,0.88
+468,28,BA Marketing,digital marketing;social media;communication;content marketing,social media;advertising,Marketing,Marketing Manager,0.88
+469,28,BBA,social media;digital marketing,marketing;advertising,Marketing,Digital Marketing Specialist,0.93
+470,22,BA Marketing,seo;digital marketing,branding;marketing;advertising,Marketing,Brand Manager,0.97
+471,34,BBA,seo;communication;content marketing;digital marketing;social media,branding;social media;marketing,Marketing,Marketing Manager,0.82
+472,19,B.Com,content marketing;social media,advertising;marketing;social media,Marketing,Marketing Manager,0.82
+473,35,BA Marketing,communication;digital marketing,social media;marketing,Marketing,Brand Manager,0.92
+474,24,BBA,communication;content marketing;digital marketing;social media;seo,advertising;social media;marketing;branding,Marketing,Digital Marketing Specialist,0.81
+475,22,BA Marketing,content marketing;seo;digital marketing;communication,social media;marketing,Marketing,Marketing Manager,0.84
+476,26,B.Com,communication;digital marketing;social media;seo;content marketing,branding;marketing,Marketing,Brand Manager,0.81
+477,31,MBA Marketing,seo;content marketing,branding;social media;advertising;marketing,Marketing,Marketing Manager,0.81
+478,19,B.Com,seo;content marketing;communication;digital marketing,marketing,Marketing,SEO Specialist,0.81
+479,24,BBA,communication;seo,social media,Marketing,Brand Manager,0.91
+480,22,B.Com,content marketing;seo;social media;digital marketing;communication,advertising;marketing;branding;social media,Marketing,Marketing Manager,0.84
+481,19,Medical Student,patient care;clinical research;medical diagnosis;biology,healthcare,Medicine,Clinical Specialist,0.83
+482,27,Medical Student,patient care;biology;medical diagnosis;clinical research,patient care,Medicine,Medical Researcher,0.91
+483,21,MBBS,clinical research;medical diagnosis,medicine,Medicine,Medical Researcher,0.86
+484,18,MBBS,clinical research;medical diagnosis;patient care;biology,medicine;healthcare;patient care;medical research,Medicine,Clinical Specialist,0.89
+485,31,MD,biology;medical diagnosis,healthcare;patient care;medical research,Medicine,Medical Researcher,0.92
+486,25,MD,biology;clinical research;medical diagnosis;patient care,medical research,Medicine,Medical Researcher,0.9
+487,31,MD,clinical research;medical diagnosis;patient care,medical research,Medicine,Medical Researcher,0.97
+488,20,Medical Student,patient care;biology;clinical research,healthcare;patient care,Medicine,Medical Researcher,0.94
+489,25,MBBS,medical diagnosis;biology,medical research;healthcare;medicine,Medicine,Clinical Specialist,0.83
+490,27,Medical Student,medical diagnosis;biology;clinical research,medicine,Medicine,Medical Researcher,0.92
+491,33,MBBS,patient care;biology,medicine;medical research;patient care,Medicine,Medical Researcher,0.84
+492,20,MD,patient care;clinical research,patient care;medicine,Medicine,Doctor,0.94
+493,26,Medical Student,patient care;clinical research;biology,medical research,Medicine,Clinical Specialist,0.85
+494,31,MBBS,biology;patient care;medical diagnosis;clinical research,patient care;healthcare;medical research;medicine,Medicine,Clinical Specialist,0.95
+495,20,MBBS,medical diagnosis;clinical research,medical research,Medicine,Clinical Specialist,0.91
+496,26,MBBS,clinical research;patient care;medical diagnosis;biology,patient care;healthcare;medical research,Medicine,Medical Researcher,0.83
+497,34,MD,biology;patient care,medical research;medicine;healthcare;patient care,Medicine,Clinical Specialist,0.96
+498,28,Medical Student,patient care;clinical research;biology;medical diagnosis,patient care;medical research,Medicine,Clinical Specialist,0.88
+499,35,Medical Student,biology;clinical research;patient care,medical research,Medicine,Medical Researcher,0.96
+500,31,MBBS,clinical research;biology,patient care;medical research,Medicine,Doctor,0.94
+501,23,MBBS,biology;clinical research;medical diagnosis;patient care,medical research;patient care;medicine,Medicine,Clinical Specialist,0.95
+502,26,MBBS,medical diagnosis;clinical research;biology;patient care,healthcare,Medicine,Medical Researcher,0.94
+503,35,MD,biology;patient care;clinical research;medical diagnosis,medical research;healthcare;medicine;patient care,Medicine,Medical Researcher,0.91
+504,31,MD,medical diagnosis;clinical research;biology;patient care,medicine,Medicine,Doctor,0.85
+505,21,MBBS,biology;clinical research;medical diagnosis,medical research;patient care;healthcare,Medicine,Doctor,0.89
+506,29,Medical Student,medical diagnosis;clinical research;biology;patient care,medicine,Medicine,Clinical Specialist,0.88
+507,26,MD,medical diagnosis;clinical research,patient care;medical research,Medicine,Medical Researcher,0.82
+508,27,MD,clinical research;patient care,medical research;medicine,Medicine,Doctor,0.84
+509,26,MD,clinical research;biology;patient care;medical diagnosis,medical research;healthcare,Medicine,Medical Researcher,0.85
+510,23,Medical Student,medical diagnosis;patient care;biology,patient care;medical research;medicine,Medicine,Medical Researcher,0.83
+511,28,MBBS,biology;medical diagnosis;clinical research,medical research;medicine;patient care;healthcare,Medicine,Clinical Specialist,0.85
+512,35,MBBS,patient care;medical diagnosis,medical research;medicine,Medicine,Medical Researcher,0.84
+513,20,Medical Student,patient care;biology;clinical research,patient care;medical research;medicine;healthcare,Medicine,Doctor,0.9
+514,25,MD,medical diagnosis;clinical research,medicine;patient care;medical research;healthcare,Medicine,Doctor,0.88
+515,19,MBBS,medical diagnosis;patient care;clinical research;biology,patient care,Medicine,Doctor,0.85
+516,22,MBBS,medical diagnosis;biology;patient care,medical research,Medicine,Medical Researcher,0.96
+517,19,MD,biology;patient care,patient care;medical research;medicine;healthcare,Medicine,Medical Researcher,0.88
+518,19,Medical Student,clinical research;medical diagnosis,medicine;patient care;medical research;healthcare,Medicine,Medical Researcher,0.98
+519,28,MD,clinical research;biology,patient care,Medicine,Doctor,0.92
+520,34,MD,patient care;clinical research,patient care;medicine,Medicine,Medical Researcher,0.82
+521,31,B.Pharm,pharmacology;chemistry;drug research,drug development,Pharmacy,Clinical Research Associate,0.91
+522,21,M.Pharm,clinical research;pharmacology;drug research,pharmaceutical research;drug development,Pharmacy,Drug Safety Specialist,0.86
+523,25,B.Pharm,chemistry;pharmacology;clinical research,healthcare,Pharmacy,Drug Safety Specialist,0.83
+524,34,M.Pharm,drug research;pharmacology;clinical research;chemistry,healthcare;drug development;pharmaceutical research,Pharmacy,Drug Safety Specialist,0.83
+525,21,B.Pharm,pharmacology;chemistry;clinical research;drug research,healthcare,Pharmacy,Drug Safety Specialist,0.96
+526,34,B.Pharm,clinical research;chemistry,drug development;pharmaceutical research,Pharmacy,Pharmacist,0.92
+527,27,M.Pharm,clinical research;pharmacology,healthcare;pharmaceutical research,Pharmacy,Clinical Research Associate,0.8
+528,31,M.Pharm,pharmacology;drug research,healthcare,Pharmacy,Drug Safety Specialist,0.82
+529,24,M.Pharm,clinical research;chemistry,drug development;pharmaceutical research,Pharmacy,Pharmacist,0.84
+530,29,B.Pharm,drug research;pharmacology,pharmaceutical research,Pharmacy,Pharmacist,0.88
+531,33,M.Pharm,drug research;pharmacology;chemistry;clinical research,healthcare;drug development;pharmaceutical research,Pharmacy,Drug Safety Specialist,0.85
+532,35,B.Pharm,clinical research;pharmacology;chemistry;drug research,pharmaceutical research,Pharmacy,Pharmacist,0.89
+533,27,M.Pharm,pharmacology;drug research;chemistry,pharmaceutical research;drug development,Pharmacy,Clinical Research Associate,0.92
+534,22,B.Pharm,clinical research;chemistry,drug development,Pharmacy,Drug Safety Specialist,0.85
+535,22,B.Pharm,pharmacology;chemistry,drug development;healthcare,Pharmacy,Clinical Research Associate,0.84
+536,24,M.Pharm,drug research;chemistry,healthcare;pharmaceutical research,Pharmacy,Drug Safety Specialist,0.96
+537,20,M.Pharm,pharmacology;drug research;chemistry,pharmaceutical research,Pharmacy,Pharmacist,0.82
+538,31,M.Pharm,clinical research;drug research;pharmacology;chemistry,healthcare,Pharmacy,Pharmacist,0.97
+539,33,M.Pharm,clinical research;drug research;chemistry;pharmacology,pharmaceutical research;drug development,Pharmacy,Drug Safety Specialist,0.86
+540,33,M.Pharm,drug research;clinical research;chemistry,pharmaceutical research,Pharmacy,Clinical Research Associate,0.81
+541,28,M.Pharm,pharmacology;clinical research;chemistry;drug research,drug development;pharmaceutical research,Pharmacy,Clinical Research Associate,0.89
+542,30,B.Pharm,drug research;clinical research;chemistry;pharmacology,drug development;healthcare;pharmaceutical research,Pharmacy,Pharmacist,0.81
+543,26,B.Pharm,chemistry;clinical research,pharmaceutical research;drug development,Pharmacy,Drug Safety Specialist,0.92
+544,35,M.Pharm,clinical research;chemistry,pharmaceutical research;healthcare,Pharmacy,Clinical Research Associate,0.98
+545,35,B.Pharm,drug research;pharmacology;chemistry,pharmaceutical research,Pharmacy,Clinical Research Associate,0.84
+546,23,M.Pharm,pharmacology;clinical research;drug research;chemistry,healthcare,Pharmacy,Clinical Research Associate,0.85
+547,25,M.Pharm,chemistry;pharmacology;drug research;clinical research,pharmaceutical research;healthcare,Pharmacy,Pharmacist,0.91
+548,21,M.Pharm,clinical research;drug research;pharmacology;chemistry,pharmaceutical research;healthcare,Pharmacy,Pharmacist,0.82
+549,33,M.Pharm,clinical research;drug research;chemistry,pharmaceutical research;healthcare;drug development,Pharmacy,Drug Safety Specialist,0.95
+550,18,B.Pharm,clinical research;chemistry,pharmaceutical research;drug development,Pharmacy,Clinical Research Associate,0.85
+551,26,M.Pharm,chemistry;pharmacology,healthcare;pharmaceutical research;drug development,Pharmacy,Drug Safety Specialist,0.91
+552,20,M.Pharm,pharmacology;clinical research,pharmaceutical research,Pharmacy,Clinical Research Associate,0.8
+553,33,B.Pharm,clinical research;chemistry;pharmacology;drug research,pharmaceutical research;drug development,Pharmacy,Clinical Research Associate,0.82
+554,25,B.Pharm,pharmacology;chemistry;clinical research,pharmaceutical research;drug development;healthcare,Pharmacy,Pharmacist,0.9
+555,23,B.Pharm,pharmacology;clinical research;drug research;chemistry,drug development;pharmaceutical research;healthcare,Pharmacy,Clinical Research Associate,0.89
+556,22,B.Pharm,drug research;pharmacology,healthcare;pharmaceutical research;drug development,Pharmacy,Drug Safety Specialist,0.84
+557,20,M.Pharm,pharmacology;drug research,pharmaceutical research;healthcare;drug development,Pharmacy,Drug Safety Specialist,0.8
+558,31,M.Pharm,drug research;chemistry;pharmacology;clinical research,pharmaceutical research,Pharmacy,Pharmacist,0.86
+559,30,B.Pharm,drug research;pharmacology,pharmaceutical research;healthcare,Pharmacy,Clinical Research Associate,0.81
+560,26,B.Pharm,chemistry;pharmacology;drug research;clinical research,pharmaceutical research;drug development,Pharmacy,Pharmacist,0.96
+561,18,Medical Laboratory Science,medical knowledge;clinical procedures;communication,medicine;healthcare;patient care,Healthcare,Medical Laboratory Technologist,0.86
+562,19,BPT,communication;medical knowledge;patient care;clinical procedures,patient care;healthcare;medicine,Healthcare,Medical Laboratory Technologist,0.9
+563,21,B.Sc Nursing,patient care;clinical procedures;communication,healthcare;patient care,Healthcare,Nurse,0.97
+564,23,BPT,patient care;medical knowledge;clinical procedures;communication,medicine,Healthcare,Nurse,0.82
+565,35,Medical Laboratory Science,clinical procedures;communication;medical knowledge;patient care,patient care;medicine;healthcare,Healthcare,Medical Laboratory Technologist,0.88
+566,21,BPT,communication;medical knowledge;clinical procedures;patient care,patient care;medicine;healthcare,Healthcare,Physiotherapist,0.87
+567,19,BPT,medical knowledge;patient care;communication,healthcare,Healthcare,Nurse,0.83
+568,30,BPT,patient care;medical knowledge;communication;clinical procedures,patient care,Healthcare,Nurse,0.87
+569,26,B.Sc Nursing,communication;medical knowledge;patient care,healthcare;medicine,Healthcare,Medical Laboratory Technologist,0.84
+570,21,Medical Laboratory Science,patient care;medical knowledge;communication;clinical procedures,healthcare;patient care,Healthcare,Medical Laboratory Technologist,0.82
+571,24,B.Sc Nursing,communication;patient care;clinical procedures;medical knowledge,healthcare,Healthcare,Physiotherapist,0.96
+572,31,BPT,communication;patient care;clinical procedures;medical knowledge,patient care,Healthcare,Physiotherapist,0.97
+573,35,B.Sc Nursing,patient care;medical knowledge;communication,healthcare;medicine;patient care,Healthcare,Physiotherapist,0.91
+574,35,Medical Laboratory Science,clinical procedures;communication;patient care,healthcare;patient care,Healthcare,Medical Laboratory Technologist,0.83
+575,32,BPT,medical knowledge;clinical procedures,medicine;patient care,Healthcare,Nurse,0.9
+576,25,B.Sc Nursing,clinical procedures;patient care;medical knowledge,healthcare,Healthcare,Medical Laboratory Technologist,0.85
+577,25,BPT,communication;medical knowledge,healthcare,Healthcare,Medical Laboratory Technologist,0.95
+578,33,Medical Laboratory Science,medical knowledge;patient care;clinical procedures;communication,healthcare;patient care,Healthcare,Physiotherapist,0.93
+579,22,Medical Laboratory Science,patient care;medical knowledge,healthcare;medicine,Healthcare,Medical Laboratory Technologist,0.82
+580,29,B.Sc Nursing,communication;clinical procedures;medical knowledge;patient care,medicine;patient care;healthcare,Healthcare,Nurse,0.88
+581,25,B.Sc Nursing,patient care;communication;clinical procedures;medical knowledge,medicine,Healthcare,Nurse,0.89
+582,28,Medical Laboratory Science,patient care;medical knowledge;clinical procedures,patient care;medicine;healthcare,Healthcare,Physiotherapist,0.87
+583,21,Medical Laboratory Science,communication;medical knowledge;patient care;clinical procedures,healthcare,Healthcare,Nurse,0.81
+584,24,B.Sc Nursing,communication;medical knowledge,medicine;patient care,Healthcare,Physiotherapist,0.84
+585,22,Medical Laboratory Science,medical knowledge;clinical procedures;communication;patient care,patient care;medicine;healthcare,Healthcare,Nurse,0.9
+586,22,B.Sc Nursing,clinical procedures;patient care;communication;medical knowledge,medicine,Healthcare,Nurse,0.86
+587,24,B.Sc Nursing,communication;patient care;clinical procedures;medical knowledge,healthcare;patient care;medicine,Healthcare,Physiotherapist,0.93
+588,28,B.Sc Nursing,communication;patient care,patient care;medicine,Healthcare,Physiotherapist,0.93
+589,20,B.Sc Nursing,medical knowledge;patient care,patient care,Healthcare,Nurse,0.91
+590,30,B.Sc Nursing,medical knowledge;clinical procedures,healthcare;patient care;medicine,Healthcare,Nurse,0.92
+591,32,Medical Laboratory Science,patient care;medical knowledge;clinical procedures,patient care,Healthcare,Physiotherapist,0.93
+592,23,BPT,clinical procedures;medical knowledge,medicine;patient care,Healthcare,Physiotherapist,0.96
+593,23,Medical Laboratory Science,patient care;communication;medical knowledge,patient care;medicine,Healthcare,Medical Laboratory Technologist,0.82
+594,27,B.Sc Nursing,communication;clinical procedures,healthcare;patient care;medicine,Healthcare,Nurse,0.88
+595,31,BPT,medical knowledge;patient care;clinical procedures,healthcare;patient care;medicine,Healthcare,Medical Laboratory Technologist,0.95
+596,30,B.Sc Nursing,patient care;communication,healthcare;medicine,Healthcare,Physiotherapist,0.85
+597,24,Medical Laboratory Science,medical knowledge;communication;clinical procedures;patient care,medicine,Healthcare,Nurse,0.97
+598,25,BPT,clinical procedures;communication;medical knowledge,medicine,Healthcare,Nurse,0.96
+599,23,BPT,patient care;clinical procedures;medical knowledge,medicine;healthcare;patient care,Healthcare,Medical Laboratory Technologist,0.9
+600,22,BPT,medical knowledge;patient care,patient care;medicine,Healthcare,Physiotherapist,0.89
+601,21,B.Sc Chemistry,statistics;data analysis,science;research;experimentation;academia,Scientific Research,Research Scientist,0.86
+602,27,M.Sc,research;statistics,research;science;academia,Scientific Research,Academic Researcher,0.8
+603,30,B.Sc Mathematics,scientific writing;statistics;experimentation;data analysis,science,Scientific Research,Academic Researcher,0.93
+604,22,PhD,research;data analysis;scientific writing;experimentation;statistics,research,Scientific Research,Academic Researcher,0.87
+605,21,B.Sc Chemistry,statistics;data analysis,experimentation;research;academia,Scientific Research,Research Scientist,0.9
+606,19,B.Sc Chemistry,experimentation;research,research;academia,Scientific Research,Scientist,0.89
+607,31,B.Sc Chemistry,statistics;experimentation;data analysis;scientific writing;research,science,Scientific Research,Research Analyst,0.97
+608,35,M.Sc,experimentation;data analysis;scientific writing,academia;research,Scientific Research,Research Scientist,0.94
+609,26,B.Sc Mathematics,research;data analysis;statistics;scientific writing,research;experimentation,Scientific Research,Scientist,0.97
+610,25,B.Sc Physics,statistics;data analysis;research,research;academia,Scientific Research,Academic Researcher,0.9
+611,23,PhD,research;statistics,research;academia;science,Scientific Research,Academic Researcher,0.95
+612,32,M.Sc,statistics;scientific writing;research;data analysis;experimentation,academia;experimentation;research,Scientific Research,Scientist,0.93
+613,22,B.Sc Chemistry,scientific writing;data analysis;statistics;research,research,Scientific Research,Scientist,0.82
+614,21,PhD,scientific writing;data analysis;research;experimentation;statistics,experimentation;academia;research;science,Scientific Research,Scientist,0.88
+615,26,B.Sc Chemistry,statistics;research;data analysis,science;experimentation;academia,Scientific Research,Research Scientist,0.86
+616,26,B.Sc Chemistry,research;statistics,science;experimentation,Scientific Research,Scientist,0.88
+617,19,B.Sc Mathematics,data analysis;statistics;scientific writing;research,academia;science;experimentation,Scientific Research,Research Scientist,0.87
+618,32,B.Sc Chemistry,research;experimentation;scientific writing;data analysis,academia,Scientific Research,Scientist,0.93
+619,24,B.Sc Chemistry,data analysis;research;statistics;scientific writing,experimentation;academia;science;research,Scientific Research,Research Analyst,0.93
+620,24,B.Sc Mathematics,scientific writing;experimentation;statistics,experimentation;science,Scientific Research,Research Analyst,0.94
+621,25,B.Sc Chemistry,statistics;research;scientific writing;experimentation;data analysis,experimentation;research;academia,Scientific Research,Scientist,0.92
+622,33,PhD,experimentation;data analysis,academia,Scientific Research,Academic Researcher,0.81
+623,28,PhD,research;experimentation;statistics,research;experimentation;science;academia,Scientific Research,Scientist,0.94
+624,21,B.Sc Mathematics,scientific writing;data analysis;research;experimentation,science;research;experimentation;academia,Scientific Research,Research Analyst,0.8
+625,29,PhD,experimentation;data analysis;statistics,research;science,Scientific Research,Scientist,0.81
+626,31,M.Sc,scientific writing;experimentation;statistics,research;science;academia,Scientific Research,Scientist,0.82
+627,34,B.Sc Physics,research;data analysis;experimentation;statistics;scientific writing,experimentation;research;science,Scientific Research,Scientist,0.88
+628,24,B.Sc Physics,experimentation;scientific writing;research,science;academia;experimentation;research,Scientific Research,Academic Researcher,0.86
+629,18,PhD,scientific writing;statistics;data analysis;experimentation;research,research;science,Scientific Research,Research Scientist,0.88
+630,24,PhD,research;scientific writing;experimentation,experimentation;academia;science,Scientific Research,Academic Researcher,0.96
+631,19,B.Sc Mathematics,statistics;scientific writing;research,science;experimentation,Scientific Research,Academic Researcher,0.95
+632,30,B.Sc Chemistry,experimentation;data analysis;statistics,experimentation;science;research,Scientific Research,Academic Researcher,0.87
+633,34,PhD,data analysis;scientific writing;experimentation;research,research;science;experimentation;academia,Scientific Research,Scientist,0.88
+634,31,B.Sc Physics,research;statistics;data analysis,science,Scientific Research,Research Scientist,0.97
+635,34,M.Sc,scientific writing;statistics;experimentation;research,research,Scientific Research,Academic Researcher,0.97
+636,33,B.Sc Mathematics,statistics;scientific writing;data analysis;experimentation;research,science;academia;research,Scientific Research,Research Scientist,0.92
+637,31,B.Sc Mathematics,statistics;scientific writing;experimentation,research;science;academia,Scientific Research,Research Analyst,0.89
+638,19,B.Sc Mathematics,scientific writing;research;data analysis;statistics;experimentation,research;academia;experimentation,Scientific Research,Research Scientist,0.83
+639,32,B.Sc Chemistry,experimentation;research,experimentation;research;science;academia,Scientific Research,Academic Researcher,0.88
+640,22,B.Sc Physics,data analysis;scientific writing;research,research;academia;experimentation,Scientific Research,Research Scientist,0.97
+641,34,B.Sc Design,adobe xd;ux research;prototyping;figma,user experience;product design,UI/UX & Design,UI Designer,0.94
+642,28,B.Tech,ui design;figma;prototyping,creativity;design;product design,UI/UX & Design,UI Designer,0.83
+643,32,B.Tech,ui design;adobe xd;prototyping;figma;ux research,design;user experience;creativity;product design,UI/UX & Design,Product Designer,0.94
+644,31,B.Sc Design,figma;ux research;prototyping;ui design,user experience,UI/UX & Design,UI Designer,0.94
+645,22,B.Tech,ui design;figma;prototyping;adobe xd;ux research,creativity;design;user experience;product design,UI/UX & Design,UX Designer,0.98
+646,24,BA Design,ui design;adobe xd;prototyping;ux research;figma,creativity;design;user experience,UI/UX & Design,Product Designer,0.83
+647,27,BA Design,adobe xd;prototyping;ui design;figma;ux research,design;product design,UI/UX & Design,Product Designer,0.85
+648,34,BA Design,ui design;ux research;adobe xd;prototyping;figma,design;product design;user experience;creativity,UI/UX & Design,UI Designer,0.93
+649,18,B.Des,ux research;adobe xd;ui design;prototyping,creativity;product design,UI/UX & Design,UX Researcher,0.84
+650,27,BA Design,adobe xd;prototyping;ux research,design;creativity,UI/UX & Design,UI Designer,0.87
+651,23,B.Tech,prototyping;ux research;adobe xd,creativity;product design;design;user experience,UI/UX & Design,UI Designer,0.95
+652,22,B.Tech,ui design;adobe xd,product design;creativity;design,UI/UX & Design,Product Designer,0.98
+653,29,BA Design,ui design;figma;adobe xd;ux research,product design;user experience;creativity;design,UI/UX & Design,UX Designer,0.92
+654,22,BA Design,figma;adobe xd;ux research;ui design,design,UI/UX & Design,UX Researcher,0.86
+655,25,B.Des,figma;adobe xd;prototyping,creativity;user experience;product design,UI/UX & Design,Product Designer,0.94
+656,25,B.Des,figma;adobe xd;prototyping,user experience,UI/UX & Design,Product Designer,0.92
+657,28,BA Design,figma;ui design;ux research;prototyping,design,UI/UX & Design,UX Researcher,0.87
+658,29,B.Tech,figma;ux research,design;product design;creativity;user experience,UI/UX & Design,Product Designer,0.83
+659,21,B.Des,figma;ui design,creativity;user experience;product design;design,UI/UX & Design,UX Researcher,0.82
+660,34,B.Tech,ui design;adobe xd,creativity;product design,UI/UX & Design,UI Designer,0.8
+661,27,BA Design,ui design;ux research;adobe xd,product design;design;creativity,UI/UX & Design,UX Designer,0.95
+662,21,B.Sc Design,prototyping;figma;ux research;adobe xd;ui design,user experience,UI/UX & Design,Product Designer,0.89
+663,21,B.Des,adobe xd;figma;prototyping,design,UI/UX & Design,UI Designer,0.91
+664,30,B.Des,prototyping;ui design;adobe xd,product design;creativity;user experience,UI/UX & Design,UX Designer,0.96
+665,26,B.Tech,ui design;figma;ux research;adobe xd,design;user experience;product design,UI/UX & Design,UX Researcher,0.89
+666,32,BA Design,prototyping;ux research;ui design,creativity;user experience;product design,UI/UX & Design,UX Designer,0.87
+667,26,B.Tech,figma;ui design;ux research,user experience,UI/UX & Design,UI Designer,0.96
+668,34,B.Des,adobe xd;prototyping;ui design,design;creativity,UI/UX & Design,UX Designer,0.97
+669,24,B.Tech,ui design;prototyping;ux research;figma;adobe xd,product design;design;creativity,UI/UX & Design,Product Designer,0.93
+670,34,B.Des,prototyping;adobe xd;ui design;ux research,product design;creativity;user experience,UI/UX & Design,UI Designer,0.81
+671,23,BA Design,ui design;prototyping;figma;ux research;adobe xd,creativity;design;user experience,UI/UX & Design,Product Designer,0.88
+672,30,B.Sc Design,adobe xd;ux research;ui design,user experience,UI/UX & Design,UI Designer,0.89
+673,27,BA Design,figma;ux research;adobe xd,user experience;design;creativity;product design,UI/UX & Design,Product Designer,0.96
+674,24,B.Des,prototyping;figma;ui design,design;product design;creativity,UI/UX & Design,UX Designer,0.92
+675,24,B.Des,ux research;adobe xd;prototyping,design;user experience,UI/UX & Design,Product Designer,0.84
+676,23,B.Sc Design,ux research;ui design;prototyping;figma,creativity,UI/UX & Design,UX Designer,0.85
+677,23,BA Design,figma;ux research;ui design;prototyping;adobe xd,user experience;design,UI/UX & Design,Product Designer,0.84
+678,22,B.Sc Design,ui design;ux research,product design;design;user experience,UI/UX & Design,UI Designer,0.96
+679,29,B.Tech,prototyping;adobe xd;ui design;figma;ux research,product design,UI/UX & Design,UX Researcher,0.93
+680,32,B.Des,ux research;prototyping;adobe xd;ui design;figma,user experience;creativity,UI/UX & Design,UX Researcher,0.94

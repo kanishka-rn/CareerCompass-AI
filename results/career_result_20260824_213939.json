@@ -1,0 +1,94 @@
+{
+  "career_domain": "Data & Analytics",
+  "hybrid_score": 42.04,
+  "ml_score": 18.95,
+  "skill_score": 33.33,
+  "interest_score": 50.0,
+  "education_score": 100.0,
+  "keyword_score": 30.77,
+  "domain_boost": 4.0,
+  "confidence": 42.04,
+  "rating": "Moderate Match",
+  "career_roles": [
+    "Data Analyst",
+    "Business Intelligence Analyst",
+    "Data Engineer",
+    "Analytics Engineer"
+  ],
+  "matched_skills": [
+    "python",
+    "sql",
+    "power bi"
+  ],
+  "missing_skills": [
+    "statistics",
+    "excel",
+    "tableau",
+    "pandas",
+    "numpy",
+    "data analysis"
+  ],
+  "recommended_skills": [
+    "statistics",
+    "excel",
+    "tableau",
+    "pandas",
+    "numpy"
+  ],
+  "skill_match": 33.33,
+  "roadmap": [
+    "Apply SQL to increasingly complex analytics questions",
+    "Learn spreadsheet and data fundamentals",
+    "Master SQL queries",
+    "Use Python for analysis",
+    "Study statistics",
+    "Build dashboards",
+    "Publish portfolio case studies"
+  ],
+  "top_results": [
+    {
+      "career_domain": "Data & Analytics",
+      "hybrid_score": 42.04,
+      "ml_score": 18.95,
+      "skill_score": 33.33,
+      "interest_score": 50.0,
+      "education_score": 100.0,
+      "keyword_score": 30.77,
+      "domain_boost": 4.0
+    },
+    {
+      "career_domain": "AI & Machine Learning",
+      "hybrid_score": 34.95,
+      "ml_score": 14.53,
+      "skill_score": 22.22,
+      "interest_score": 50.0,
+      "education_score": 100.0,
+      "keyword_score": 23.08,
+      "domain_boost": 2.0
+    },
+    {
+      "career_domain": "Scientific Research",
+      "hybrid_score": 30.62,
+      "ml_score": 7.0,
+      "skill_score": 16.67,
+      "interest_score": 50.0,
+      "education_score": 100.0,
+      "keyword_score": 20.0,
+      "domain_boost": 2.0
+    }
+  ],
+  "why": [
+    "Your interests align with Data & Analytics",
+    "Your current skills match 33.33% of this domain's core skills",
+    "Your education has 100% relevance",
+    "Next strengthen: statistics, excel, tableau"
+  ],
+  "normalized_skills": [
+    "python",
+    "javascript",
+    "data structures and algorithms",
+    "machine learning",
+    "sql",
+    "power bi"
+  ]
+}

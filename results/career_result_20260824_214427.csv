@@ -1,0 +1,4 @@
+rank,career_domain,hybrid_score,rating,ml_score,skill_score,interest_score,education_score,keyword_score
+1,Data & Analytics,42.04,Moderate Match,18.95,33.33,50.0,100.0,30.77
+2,AI & Machine Learning,34.95,Exploratory Match,14.53,22.22,50.0,100.0,23.08
+3,Scientific Research,30.62,Exploratory Match,7.0,16.67,50.0,100.0,20.0
